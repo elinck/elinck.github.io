@@ -188,6 +188,8 @@ tags:
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
+
+
 #     - categories
 #     - tags
 #   layouts:
@@ -204,3 +206,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+    
+include: ['_pages']
