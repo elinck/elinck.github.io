@@ -4,7 +4,16 @@ main:
     url: https://elinck.github.io/research/
 
   - title: "CV"
-    url: https://mmistakes.github.io/cv/
+    url: https://elinck.github.io/cv/
+    
+  - title: "Publications"
+    url: https://elinck.github.io/publications/
+    
+  - title: "Writing"
+    url: https://elinck.github.io/writing/    
+    
+  - title: "Racing"
+    url: https://elinck.github.io/racing/    
 
   - title: "Blog"
     url: http://beyondtheranges.wordpress.com
