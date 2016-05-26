@@ -1,5 +1,7 @@
 ---
 layout: single
-permalink: /research/
+permalink: /cv/
 author_profile: true
+header: 
+  image: testing.jpg
 ---
