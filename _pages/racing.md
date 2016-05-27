@@ -7,6 +7,7 @@ header:
 ---
 
 ## 2016
+* April 17: Yakima 25K, 2nd, 2:21
 * February 6: Geoduck Gallop Half Marathon, 1st, 1:14
 * January 9: Bridle Falls 50K, 1st Relay Team (w/ <a href="http://seattlerunningclub.org/wordpress/2016-srcbrooks-team/">SRC-Brooks</a>), 2:54:06 (CR)
 
