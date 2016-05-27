@@ -3,7 +3,7 @@ layout: single
 permalink: /research/
 author_profile: true
 header: 
-  image: testing.jpg
+  image: researchheader.jpg
 ---
 
 ***
@@ -20,7 +20,7 @@ My dissertation research is focused on the influence of natural selection on the
 
 ![tree](/images/tree.jpg)
 
-At its simplest, evolution is merely a change in the allele frequency of a specific gene in a specific population. From this microevolutionary building block all deeper levels of evolutionary relationship are formed -- which make population genetics a crucial field for understanding the origin of avian biodiversity. Phylogeography, as the spatially explicit study of genetic variation across landscapes, is particularly useful, as it can shed light on the correlation between geographic and environmental processes and genetic differentiation. I have previously explored the influence of dispersal ability on phylogeographic structure in an island songbird (The Louisiade White-eye) using traditional PCR and Sanger Sequencing methods. Currently, I'm working with two reduced-representation whole genome sequencing methods (RADseq and UCEs) as tools to explore the phylogeography of North American mountain songbirds at fine spatial scales. 
+At its simplest, evolution is merely a change in the allele frequency of a specific gene in a specific population. From this microevolutionary building block all deeper levels of evolutionary relationship are formed -- which make population genetics a crucial field for understanding the origin of avian biodiversity. Phylogeography, or the spatially explicit study of genetic variation across landscapes, is particularly useful, as it can shed light on the correlation between geographic and environmental processes and genetic differentiation. I have previously explored the influence of dispersal ability on phylogeographic structure in an island songbird (The Louisiade White-eye) using traditional PCR and Sanger Sequencing methods. Currently, I'm working with two reduced-representation whole genome sequencing methods (RADseq and UCEs) as tools to explore the phylogeography of North American mountain songbirds at fine spatial scales. 
 
 ## Natural history museum specimen collections
 
