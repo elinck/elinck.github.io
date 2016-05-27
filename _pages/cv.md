@@ -6,4 +6,6 @@ header:
   image: cvheader.jpg
 ---
 
-<div markdown="0"><a href="http://elinck.github.io/elinck_CV_050616.pdf/" class="btn">Curriculum Vitae</a></div>
+Download my CV here:
+
+<div markdown="0"><a href="https://github.com/elinck/elinck.github.io/blob/master/elinck_CV_050616.pdf" class="btn">Curriculum Vitae</a></div>
