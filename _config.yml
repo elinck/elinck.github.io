@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ethan Linck"
 title_separator          : "-"
 name                     : "Ethan Linck"
-description              : "Evolution, birds, mountains, skis, feet."
+description              : "Ethan Linck's academic website"
 url                      : https://elinck.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
