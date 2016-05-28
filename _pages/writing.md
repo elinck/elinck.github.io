@@ -6,7 +6,7 @@ header:
   image: writingheader.jpg
 ---
 
-In addition to <a href="https://elinck.github.io/_pages/elinck_CV_050616.pdf"> academic publications </a>, I write regularly write about science, landscapes, and other miscellaneous topics for a popular audience.  
+In addition to <a href="https://elinck.github.io/_pages/elinck_CV_050616.pdf"> academic publications </a>, I write regularly write about science, landscapes, and other topics for a general audience.  
 
 ## Recurring:
 
