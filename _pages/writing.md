@@ -8,7 +8,7 @@ header:
 
 In addition to scientific publications, I write regularly write about science, landscapes, and errata for a popular audience.  
 
-Recurring:
+## Recurring:
 
 * I write <a href="http://www.thestranger.com/authors/23759410/ethan-linck"> a weekly Pacific Northwest science news and commentary column</a> for _The Stanger_, Seattle's only newspaper, covering everything from <a href="http://www.thestranger.com/slog/2016/04/19/23980776/science-news-how-monarch-butterflies-fly-to-mexico-and-back-how-blobs-may-become-all-we-know"> The Blob</a> to <a href="http://www.thestranger.com/slog/2016/05/19/24103203/science-news-greenpeace-claims-uw-fisheries-professors-captured-by-fishing-industry-prestigious-journal-nature-gave-bigfoot-genome-project-t"> academic politics</a>. 
 
@@ -16,8 +16,9 @@ Recurring:
 
 * I <a href="http://beyondtheranges.wordpress.com"> blog</a>, mostly about mountains, but sometimes about what I'm doing in the field or lab bench or computer. 
 
+![writing](/images/writinginset.jpg)
 
-Other Writing
+## Other Writing
 
 * <a href="http://www.thestranger.com/slog/2016/03/18/23758213/why-university-of-washington-station-will-help-bridge-the-psychological-distance-between-the-two-halves-of-the-city"> The UW Light Rail Station Will Help Bridge the Psychological Distance Between the Two Halves of the City."</a>_The Stranger_, March 2016. 
 

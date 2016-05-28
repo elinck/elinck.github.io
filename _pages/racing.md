@@ -35,7 +35,7 @@ In my other life, I compete in trail running and ski mountaineering races as a m
 ## 2014
 * <a href="http://beyondtheranges.wordpress.com/2014/09/20/pine-to-palm-100/">September 13: Pine to Palm 100, 16th, 23:03</a>
 * <a href="http://beyondtheranges.wordpress.com/2014/09/08/august-come-and-gone/">August 24: Race To The Top of Vermont, 4th, :36</a>
-* <a href="http://beyondtheranges.wordpress.com/2014/07/31/leadville-silver-rush-50/">July 13: Leadville Silver Rush 50m, 1st, 7:01></a>
+* <a href="http://beyondtheranges.wordpress.com/2014/07/31/leadville-silver-rush-50/">July 13: Leadville Silver Rush 50m, 1st, 7:01</a>
 * <a href="http://beyondtheranges.wordpress.com/2014/07/08/running-back-in-the-butte/">July 4: Gothic to CB 1/3rd Marathon, 3rd, :50.</a>
 * <a href="http://beyondtheranges.wordpress.com/2014/05/19/2014-sageburner-25k/">May 17: Sageburner 25K, 3rd, 2:02</a>
 

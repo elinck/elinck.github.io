@@ -1,10 +1,12 @@
 # main links links
 main:
+
+
+  - title: "About"
+    url: https://elinck.github.io/cv/
+
   - title: "Research"
     url: https://elinck.github.io/research/
-
-  - title: "CV"
-    url: https://elinck.github.io/cv/
     
   - title: "Writing"
     url: https://elinck.github.io/writing/    
