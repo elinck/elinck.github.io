@@ -18,7 +18,7 @@ In addition to <a href="https://elinck.github.io/_pages/elinck_CV_050616.pdf"> a
 
 ![writing](/images/writinginset.jpg)
 
-## Other Writing
+## Other Writing:
 
 * <a href="http://www.thestranger.com/slog/2016/03/18/23758213/why-university-of-washington-station-will-help-bridge-the-psychological-distance-between-the-two-halves-of-the-city"> The UW Light Rail Station Will Help Bridge the Psychological Distance Between the Two Halves of the City."</a>_The Stranger_, March 2016. 
 
