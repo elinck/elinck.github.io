@@ -14,19 +14,19 @@ In addition to <a href="https://elinck.github.io/_pages/elinck_CV_050616.pdf"> a
 
 * I'm a <a href="http://www.molecularecologist.com/author/ethanlinck/"> contributing writer for _The Molecular Ecologist_</a>, a blog primarily aimed at research biologists, where I seem to mostly write about phylogenomics methods. 
 
-* I <a href="http://beyondtheranges.wordpress.com"> blog</a>, mostly about mountains, but sometimes about what I'm doing in the field or lab bench or computer. 
+* I <a href="http://beyondtheranges.wordpress.com"> have my own blog</a>, which is mostly about mountains, but sometimes about what I'm doing in the field or lab bench or computer. 
 
 ![writing](/images/writinginset.jpg)
 
 ## Other Writing:
 
-* <a href="http://www.thestranger.com/slog/2016/03/18/23758213/why-university-of-washington-station-will-help-bridge-the-psychological-distance-between-the-two-halves-of-the-city"> The UW Light Rail Station Will Help Bridge the Psychological Distance Between the Two Halves of the City."</a>_The Stranger_, March 2016. 
+* <a href="http://www.thestranger.com/slog/2016/03/18/23758213/why-university-of-washington-station-will-help-bridge-the-psychological-distance-between-the-two-halves-of-the-city"> "The UW Light Rail Station Will Help Bridge the Psychological Distance Between the Two Halves of the City."</a>_The Stranger_, March 2016. 
 
-* <a href="http://hypocritereader.com/59/mayr"> Birds, Whiskey, and the Modern Evolutionary Synthesis: Ernst Mayr in the Solomon Islands."</a> _Hypocrite Reader_ 59
+* <a href="http://hypocritereader.com/59/mayr"> "Birds, Whiskey, and the Modern Evolutionary Synthesis: Ernst Mayr in the Solomon Islands."</a> _Hypocrite Reader_ 59
 
-* <a href="http://www.bearings-journal.com/"> The Gorge.</a> _Bearings Journal_ 1. 
+* <a href="http://www.bearings-journal.com/"> "The Gorge."</a> _Bearings Journal_ 1. 
 
-* <a href="https://www.hcn.org/articles/anger-against-trail-runners-public-lands-Mt-Rainier-Wonderland-Grand-Canyon-response"> A Trail Runner Defends His Right to Public Lands." </a> _High Country News_, October 2015.  
+* <a href="https://www.hcn.org/articles/anger-against-trail-runners-public-lands-Mt-Rainier-Wonderland-Grand-Canyon-response"> "A Trail Runner Defends His Right to Public Lands." </a> _High Country News_, October 2015.  
 
 * <a href="http://hypocritereader.com/47/black-coffee"> "Black Coffee."</a> _Hypocrite Reader_ 47. 
 
