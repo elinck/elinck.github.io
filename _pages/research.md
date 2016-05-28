@@ -8,7 +8,7 @@ header:
 
 ***
 
-As a biologist, I'm broadly interested in how the geological and ecological features of landscapes drive differentiation in avian populations. A member of the <a href="http://klickalab.com" target="_blank">Klicka Lab</a> at the University of Washington and <a href="http://www.burkemuseum.org/" target="_blank">Burke Museum of Natural History &amp; Culture</a>, much of my work is based in ornithological specimen collections, whether as source of data on morphological variation or as a source of DNA for genome-wide analyses. However, I also draw on everything from traditional field observation to emerging biodiversity informatics and remote-sensing datasets. 
+As a biologist, I'm broadly interested in how the geological and ecological features of landscapes drive differentiation in avian populations. A member of the <a href="http://klickalab.com" target="_blank">Klicka Lab</a> at the University of Washington Department of Biology and <a href="http://www.burkemuseum.org/" target="_blank">Burke Museum of Natural History &amp; Culture</a>, much of my work is based in ornithological specimen collections, whether as source of data on morphological variation or as a source of DNA for genome-wide analyses. However, I also draw on everything from traditional field observation to emerging <a href="https://www.mol.org/">biodiversity informatics</a> and remote-sensing datasets. 
 
 ## Ecological drivers of speciation
 
