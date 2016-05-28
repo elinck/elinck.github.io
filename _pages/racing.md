@@ -8,6 +8,8 @@ header:
 
 In my other life, I compete in trail running and ski mountaineering races as a member of the <a href="http://seattlerunningclub.org/wordpress/2016-srcbrooks-team/">Seattle Running Club / Brooks</a> and <a href="https://www.haganskimountaineering.com/"> Hagan Ski Mountaineering </a> Teams, with additional support from <a href="http://www.freerangeequipment.com"> Free Range Equipment </a> and <a href="https://nuun.com/"> Nuun. </a>
 
+![racing](/images/racing.jpg)
+
 ## Upcoming
 * August 20: Leadville 100
 * July 30: Kennebec Mountain Run
