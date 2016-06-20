@@ -17,6 +17,8 @@ In my other life, I compete in trail running and ski mountaineering races as a m
 * July 4: Gothic to CB 1/3rd Marathon 
 
 ## 2016
+* June 11: Rodeo Valley 50K, 1st, 4:27
+* June 4: San Bruno Mountain 1/2 Marathon, 1st, 1:31
 * April 17: Yakima 25K, 2nd, 2:21
 * <a href="https://beyondtheranges.wordpress.com/2016/04/14/2016-elk-mountain-grand-reverse-23rd/"> March 26: Elk Mountain Grand Traverse, 23nd, 8:53</a>
 * February 6: Geoduck Gallop Half Marathon, 1st, 1:14
