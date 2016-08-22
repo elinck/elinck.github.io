@@ -8,15 +8,13 @@ header:
 
 In my other life, I compete in trail running and ski mountaineering races as a member of the <a href="http://seattlerunningclub.org/wordpress/2016-srcbrooks-team/">Seattle Running Club / Brooks</a> and <a href="https://www.haganskimountaineering.com/"> Hagan Ski Mountaineering </a> Teams, with additional support from <a href="http://www.freerangeequipment.com"> Free Range Equipment </a> and <a href="https://nuun.com/"> Nuun. </a>
 
-![racing](/images/racing.jpg)
-
-## Upcoming
-* August 20: Leadville 100
-* July 30: Kennebec Mountain Run
-* July 23: Kendall Mountain Run
-* July 4: Gothic to CB 1/3rd Marathon 
+![racing](/images/racing2.jpg)
 
 ## 2016
+* August 20: Leadville 100, 38th, 22:58
+* July 30: Kennebec Mountain Run, 1st, 1:57
+* July 23: Kendall Mountain Run, 9th, 1:50
+* July 4: Gothic to CB 1/3rd Marathon, 6th, :53
 * June 11: Rodeo Valley 50K, 1st, 4:27
 * June 4: San Bruno Mountain 1/2 Marathon, 1st, 1:31
 * April 17: Yakima 25K, 2nd, 2:21
