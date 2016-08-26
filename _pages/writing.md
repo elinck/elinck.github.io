@@ -10,7 +10,7 @@ In addition to <a href="https://elinck.github.io/_pages/elinck_CV_050616.pdf"> a
 
 ## Recurring:
 
-* I write <a href="http://www.thestranger.com/authors/23759410/ethan-linck"> a weekly Pacific Northwest science news and commentary column</a> for _The Stanger_, Seattle's only newspaper, covering everything from <a href="http://www.thestranger.com/slog/2016/04/19/23980776/science-news-how-monarch-butterflies-fly-to-mexico-and-back-how-blobs-may-become-all-we-know"> The Blob</a> to <a href="http://www.thestranger.com/slog/2016/05/19/24103203/science-news-greenpeace-claims-uw-fisheries-professors-captured-by-fishing-industry-prestigious-journal-nature-gave-bigfoot-genome-project-t"> academic politics</a>. 
+* I write <a href="http://www.thestranger.com/authors/23759410/ethan-linck"> a weekly Pacific Northwest science news and commentary column</a> for _The Stranger_, Seattle's only newspaper, covering everything from <a href="http://www.thestranger.com/slog/2016/04/19/23980776/science-news-how-monarch-butterflies-fly-to-mexico-and-back-how-blobs-may-become-all-we-know"> The Blob</a> to <a href="http://www.thestranger.com/slog/2016/05/19/24103203/science-news-greenpeace-claims-uw-fisheries-professors-captured-by-fishing-industry-prestigious-journal-nature-gave-bigfoot-genome-project-t"> academic politics</a>. 
 
 * I'm a <a href="http://www.molecularecologist.com/author/ethanlinck/"> contributing writer for _The Molecular Ecologist_</a>, a blog primarily aimed at research biologists, where I seem to mostly write about phylogenomics methods. 
 
