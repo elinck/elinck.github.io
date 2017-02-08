@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /news/
 author_profile: true
 header: 
