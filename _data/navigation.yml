@@ -1,6 +1,8 @@
-# main links links
+# main links
 main:
 
+  - title: "News"
+    url: https://elinck.github.io/news/
 
   - title: "About / CV"
     url: https://elinck.github.io/cv/
