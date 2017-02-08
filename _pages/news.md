@@ -7,6 +7,9 @@ header:
   image: banner3.jpg
 ---
 
+This page is currently under construction as I work on switching over my blog to a static site. In the mean time, you can visit its old home, [over at Wordpress](https://beyondtheranges.wordpress.com/)
+
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">

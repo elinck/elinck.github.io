@@ -153,7 +153,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header: banner3.jpg
+      header: 
+        image: banner3.jpg
       read_time: false
       comments: false
       share: false
