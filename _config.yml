@@ -153,10 +153,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      header: banner3.jpg
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
 # Outputting
 permalink: /:categories/:title/
