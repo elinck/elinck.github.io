@@ -18,7 +18,7 @@ My dissertation work investigates the role of natural selection in the recent di
 New Guinean tree kingfishers _Syma torotoro_ and _Syma megarhyncha_, sister species that 
 replace each other along elevational gradients. While elevational replacements are widespread 
 in tropical mountains, which are often the site of dramatic changes in environment along 
-elevational gradients, it's unclear whether different selection pressures across these 
+elevational gradients, it's unclear whether differential selection pressures across these 
 gradients are sufficient to cause speciation in groups generally thought to have high gene 
 flow, such as birds. To test this hypothesis in _Syma_, I'm investigating island-wide patterns of 
 genetic and morphological differentiation in both taxa, conducting species delimitation, and 
@@ -30,7 +30,7 @@ I’ve also been evaluating methods to [collect genome-wide SNP data from museum
 ![tree](/images/pcirispca.png)  
 *Figure courtesy of [CJ Battey](http://cjbattey.com/) and K. Epperly*
 
-The basis of all organic evolution is the change of allele frequency of a 
+The basis of all organic evolution is a change in the allele frequencies of a 
 specific gene in a specific population. Phylogeography, or the spatially-explicit study of 
 genetic variation across landscapes, is therefore a powerful tool to shed light on the 
 correlation between geographic and environmental processes and genetic differentiation. 
@@ -42,7 +42,7 @@ patterns in [White-eyes](https://doi.org/10.1016/j.ympev.2015.08.018) and
 
 ![nhc](/images/birds.jpg)
 
-Natural history museum specimen collections are an undervalued and underutilized source of 
+Natural history museum specimen collections are an underutilized source of 
 huge amounts of biological data, with the potential to inform research in fields ranging 
 from systematics and taxonomy to virology and toxicology. In addition to using vouchered 
 tissues in phylogenetic research and 
