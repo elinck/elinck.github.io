@@ -7,7 +7,7 @@ patterns of avian biodiversity and the processes responsible for them. What role
 selection across environmental gradients play in speciation in birds? How do differences 
 in dispersal ability affect population genetic structure? To address these questions, 
 I use a variety of tools from computational genomics to basic natural history. 
-I’m particularly interested in the birds and ecosystems of the broader New Guinea region and 
+A member of the [Klicka Lab](https://klickalab.com/), I’m particularly interested in the birds and ecosystems of the broader New Guinea region and 
 western North America.
 
 ## Speciation and elevational gradients
