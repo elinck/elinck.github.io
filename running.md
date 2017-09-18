@@ -5,7 +5,10 @@ layout: default
 ![racing](/images/racing2.jpg)
 
 ## 2017
-
+* September 2: Grand Traverse Mountain Run 40M, 9th, 6:57
+* August 19: Silverton Alpine 50K, 1st, 4:27
+* July 29: Kennebec Mountain Run, 4th, 2:08
+* July 15: Grin and Bear It 9M, 1st, 1:15
 * April 23: Yakima 25K, 2nd, 2:23  
 * [March 25: Elk Mountain Grand Traverse, 10th, 8:50 (skis)](http://mountainlessons.com/adventures/notes-elk-mountain-grand-traverse)  
 * February 17: Vertfest Alpental, 7th, 1:31 (skis)  
