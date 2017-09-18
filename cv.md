@@ -4,19 +4,22 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 050417*)
+(*updated 091917*)
 
 # Education 
 
 Ph.D. 2014 - 2019 (*expected*). **University of Washington,** Seattle, WA  
 
-B.A. 2009 - 2013. **Reed College,** Portland, OR  
+B.A. 2009 - 2013 **Reed College,** Portland, OR  
 
 # Publications 
 
-Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
-A Migratory Divide In The Painted Bunting (*Passerina ciris*). *bioRxiv*.
-DOI: [10.1101/132910](https://doi.org/10.1101/132910)
+**Linck, E.**, Battey, C.J. 2017. Minor allele frequency thresholds strongly affect population 
+structure inference with genomic datasets. *bioRxiv*. DOI: [10.1101/188623](https://doi.org/10.1101/188623)
+
+Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. In Press. 
+A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*.
+Preprint DOI: [10.1101/132910](https://doi.org/10.1101/132910) 
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
 capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8). 
@@ -33,7 +36,7 @@ griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: [1
 **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7. 
 
-*In prep.*  
+*In review*  
   
 **Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
   
@@ -73,7 +76,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Contributing Writer.** 2016 - present. *The Molecular Ecologist.*
 
-**Visiting Researcher.** 2016. Dept. Ornithology & Mammology, California Academy of Sciences.
+**Visiting Researcher.** 2016. Department of Ornithology & Mammology, California Academy of Sciences.
 
 **WRF-Hall Fellow.** 2016. Department of Biology, University of Washington. 
 
@@ -92,6 +95,13 @@ SHP. *Muruk* 10(1), 4-7.
 **NSF REU Student.** 2011. Department of Biology, University of Washington.
 
 # Presentations 
+
+Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
+A Migratory Divide In The Painted Bunting (*Passerina ciris*). Rocky Mountain Biology Laboratory Graduate 
+Student Talks, Gothic, CO.
+
+Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
+A Migratory Divide In The Painted Bunting (*Passerina ciris*) (poster). Evolution Meetings, Portland, OR.
 
 **Linck, E.** 2017. Phenotype, species limits, and adaptation in a New Guinea kingfisher. Graduate Student Symposium,
 UW Biology, Seattle, WA.  
@@ -131,6 +141,10 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 (STARs) Seminar Series, Reed College, Portland, OR.
 
 # Popular Writing
+
+The politics of beauty, choice and natural selection: Richard Prum's *The Evolution of Beauty* In press. *Los Angeles Review of Books.*
+
+[Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*
 
 [Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*
 
@@ -172,9 +186,11 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 
 # Field Experience
 
+*E Oregon, USA.* 2017. General collecting for UWBM Ornithology. 
+
 *Idaho & SE Washington, USA.* 2015. General collecting for UWBM Ornithology. 
 
-*Colorado, USA.* 2014. Managing *Boechera* sp. garden plots along an elevational transect.
+*Colorado, USA.* 2014. Managing Boechera garden plots along an elevational transect.
 
 *Colorado, USA.* 2013-2014. Winter caretaker at snowbound Rocky Mountain Biological Laboratory field station. 
 
@@ -190,7 +206,7 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 
 *Southern Highlands Province, Papua New Guinea.* 2009. Naturalist in residence, Ambua Lodge.
 
-*Gulf Province, Papua New Guinea.* 2008. GIS mapping of clan boundaries,Crater Mountain Wildlife Management Area. 
+*Gulf Province, Papua New Guinea.* 2008. GIS mapping of clan boundaries, Crater Mountain Wildlife Management Area. 
 
 # Outreach & Service
 
@@ -214,8 +230,8 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
 
 # Collaborators
-E. Bridge (U Oklahoma); R. Bryson (U Washington); J. Duckles (U Oklahoma); J. 
-Dumbacher (California Academy of Sciences); K. Epperly (UW Biology); E. Fricke (U Iowa); R. Guralnick (U
+C.J. Battey (U Washington); D. Slager (U Washington); C. French (U Washington); E. Bridge (U Oklahoma); R. Bryson (U Washington); J. Duckles (U Oklahoma); J. 
+Dumbacher (California Academy of Sciences); K. Epperly (U Washington); E. Fricke (U Iowa); R. Guralnick (U
 Florida); Z. Hanna (UC Berkeley); J. McCormack (Occidental College); A. Navarro-Siguenza (UNAM); A. Sellas (California Academy of Sciences); H. Rogers (U Iowa); S. Rohwer (U
 Washington), S. Schaack (Reed College), K. Sheldon (U Tennessee), E. Zarza (Occidental College)
 
