@@ -2,12 +2,15 @@
 layout: default
 ---
 
-# News
-
-<ul>
+<div class="posts">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+    </article>
   {% endfor %}
-</ul>
+</div>
