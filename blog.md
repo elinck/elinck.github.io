@@ -15,5 +15,7 @@ baseurl: /blog
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    <br>
+    <hr style="height:1px; color:#aaa;" />
   {% endfor %}
 </div>
