@@ -1,6 +1,6 @@
 ---
 layout: default
-title: New Preprint &#58; MAF cutoffs and inferring population structure
+title: New preprint &#58; MAF cutoffs and inferring population structure
 ---
 Inferring population structure -- the subdivision of a species into groups of individuals
 interbreeding with each other at a higher frequency than expected by chance -- is a fundamental
