@@ -1,5 +1,6 @@
 ---
 layout: default
+baseurl: /blog
 ---
 
 <div class="posts">
@@ -11,6 +12,8 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
