@@ -144,7 +144,7 @@ The politics of beauty, choice and natural selection: Richard Prum's *The Evolut
 
 [Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*
 
-[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution)
+[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution). 2017. *The Stranger.*
 
 [Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*
 
