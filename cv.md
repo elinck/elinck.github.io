@@ -39,9 +39,7 @@ SHP. *Muruk* 10(1), 4-7.
 *In review*  
   
 **Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
-  
-**Linck, E.**, Huber, H., Greeney, H., Sheldon, K. Nesting biology of the Blue-and-white Swallow *(Notiochelidon cyanoleuca)* in northeastern Ecuador. *Ornitologia Neotropical.*  
-  
+    
 # Grants & Awards  
 
 **NSF Doctoral Dissertation Improvement Grant.** 2017. $20,084. 
@@ -145,6 +143,8 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 The politics of beauty, choice and natural selection: Richard Prum's *The Evolution of Beauty* In press. *Los Angeles Review of Books.*
 
 [Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*
+
+[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution)
 
 [Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*
 

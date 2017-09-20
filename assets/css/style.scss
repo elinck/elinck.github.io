@@ -22,12 +22,11 @@
   margin: 2px;
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #222;
+.posts > .post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid #222;
 }
+
 
 .read-more {
     text-transform: uppercase;
