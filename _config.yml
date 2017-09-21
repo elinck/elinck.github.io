@@ -9,3 +9,5 @@ pages_list:
   Research: '/research'
   Running: '/running'
   Blog: '/blog'
+gems:
+  - jekyll-feed
