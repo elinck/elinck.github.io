@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 091917*)
+(*updated 012718*)
 
 # Education 
 
@@ -17,9 +17,9 @@ B.A. 2009 - 2013 **Reed College,** Portland, OR
 **Linck, E.**, Battey, C.J. 2017. Minor allele frequency thresholds strongly affect population 
 structure inference with genomic datasets. *bioRxiv*. DOI: [10.1101/188623](https://doi.org/10.1101/188623)
 
-Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. In Press. 
+Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018. 
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*.
-Preprint DOI: [10.1101/132910](https://doi.org/10.1101/132910) 
+DOI: [10.1086/695439](https://doi.org/10.1086/695439) 
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
 capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8). 
@@ -140,7 +140,7 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 
 # Popular Writing
 
-The politics of beauty, choice and natural selection: Richard Prum's *The Evolution of Beauty* In press. *Los Angeles Review of Books.*
+[Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/) 2018. *Los Angeles Review of Books.*
 
 [Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*
 
@@ -185,6 +185,8 @@ Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Teac
 Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biology, Reed College.   
 
 # Field Experience
+
+*Chimbu Province, Papua New Guinea.* 2017. Collecting genetic samples of high mountain bird species for dissertation research.   
 
 *E Oregon, USA.* 2017. General collecting for UWBM Ornithology. 
 
