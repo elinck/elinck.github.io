@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 012718*)
+(*updated 041817*)
 
 # Education 
 
@@ -14,12 +14,12 @@ B.A. 2009 - 2013 **Reed College,** Portland, OR
 
 # Publications 
 
+Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018. 
+A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*
+191(2), 259-268. DOI: [10.1086/695439](https://doi.org/10.1086/695439) 
+
 **Linck, E.**, Battey, C.J. 2017. Minor allele frequency thresholds strongly affect population 
 structure inference with genomic datasets. *bioRxiv*. DOI: [10.1101/188623](https://doi.org/10.1101/188623)
-
-Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018. 
-A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*.
-DOI: [10.1086/695439](https://doi.org/10.1086/695439) 
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization 
 capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8). 
@@ -41,6 +41,10 @@ SHP. *Muruk* 10(1), 4-7.
 **Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
     
 # Grants & Awards  
+
+**American Museum of Natural History Chapman Grant.** 2018. $2,000.  
+
+**American Ornithological Society Travel Award.** 2018. $300.  
 
 **NSF Doctoral Dissertation Improvement Grant.** 2017. $20,084. 
 
@@ -94,6 +98,9 @@ SHP. *Muruk* 10(1), 4-7.
 
 # Presentations 
 
+**Linck, E.**, Freeman, B.G., Dumbacher, J., Klicka, J. 2018. Ecological speciation across an elevational gradient in New Guinea 
+Kingfishers? American Ornithological Society Meeting, Tucson, AZ. 
+
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). Rocky Mountain Biology Laboratory Graduate 
 Student Talks, Gothic, CO.
@@ -138,19 +145,21 @@ griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR.
 White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 (STARs) Seminar Series, Reed College, Portland, OR.
 
-# Popular Writing
+# Selected Popular Writing
 
-[Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/) 2018. *Los Angeles Review of Books.*
+Why stoke won't save us. In Press. *High Country News.*
 
-[Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*
+[Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/#!) 2018. *Los Angeles Review of Books.*  
 
-[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution). 2017. *The Stranger.*
+[Bidding a Woeful Farewell to NSF’s Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*  
 
-[Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*
+[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution). 2017. *The Stranger.*  
 
-[How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*
+[Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*  
 
-[British Scientists Wanted No Exit From the EU.](http://www.thestranger.com/slog/2016/06/24/24257994/british-scientists-wanted-no-exit-from-the-eu) 2016. *The Stranger.*
+[How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*  
+
+[British Scientists Wanted No Exit From the EU.](http://www.thestranger.com/slog/2016/06/24/24257994/british-scientists-wanted-no-exit-from-the-eu) 2016. *The Stranger.*  
 
 [Science News (weekly column).](http://www.thestranger.com/authors/23759410/ethan-linck) 2016. *The Stranger.*
 
@@ -186,13 +195,13 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 
 # Field Experience
 
-*Chimbu Province, Papua New Guinea.* 2017. Collecting genetic samples of high mountain bird species for dissertation research.   
+*Chimbu Province, Papua New Guinea.* 2017. Collecting specimens for dissertation research. 
 
 *E Oregon, USA.* 2017. General collecting for UWBM Ornithology. 
 
 *Idaho & SE Washington, USA.* 2015. General collecting for UWBM Ornithology. 
 
-*Colorado, USA.* 2014. Managing Boechera garden plots along an elevational transect.
+*Colorado, USA.* 2014. Managing Boechera garden plots along an elevational transect.  
 
 *Colorado, USA.* 2013-2014. Winter caretaker at snowbound Rocky Mountain Biological Laboratory field station. 
 
@@ -221,10 +230,11 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 **Departmental Service**  
 - Organizer for a graduate student seminar on phylogenetics  
 - Host for prospective graduate students  
+- Committee member, Graduate-led Action on Diversity and Equity 
 
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Manuscript referee, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*  
+- Manuscript referee, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics.*  
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad 
 
@@ -236,5 +246,6 @@ C.J. Battey (U Washington); D. Slager (U Washington); C. French (U Washington); 
 Dumbacher (California Academy of Sciences); K. Epperly (U Washington); E. Fricke (U Iowa); R. Guralnick (U
 Florida); Z. Hanna (UC Berkeley); J. McCormack (Occidental College); A. Navarro-Siguenza (UNAM); A. Sellas (California Academy of Sciences); H. Rogers (U Iowa); S. Rohwer (U
 Washington), S. Schaack (Reed College), K. Sheldon (U Tennessee), E. Zarza (Occidental College)
+
 
 [back](./)
