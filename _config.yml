@@ -8,6 +8,7 @@ pages_list:
   CV: '/cv'
   Research: '/research'
   Running: '/running'
-  Photos: '/photos'
+  Gallery: '/photos'
+  Blog: '/blog'
 gems:
   - jekyll-feed
