@@ -2,8 +2,19 @@
 layout: default
 ---
 
+In my free time I enjoy competing in long distance running and ski mountaineering races. 
+
 ![racing](/images/racing2.jpg)
 
+## 2019
+* February 2: Loup Loup Randonee Race, 3rd, 3:53  
+* January 19: Capitol Peak 26K, 2nd, 1:50  
+  
+## 2018  
+* September 7th: Wasatch 100, DNF  
+* June 30: Needles 25K, 1st, 2:59  
+* May 27: Vermont City Marathon, 26th, 2:49  
+  
 ## 2017
 * September 2: Grand Traverse Mountain Run 40M, 9th, 6:57
 * August 19: Silverton Alpine 50K, 1st, 4:27
