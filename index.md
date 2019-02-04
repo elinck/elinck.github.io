@@ -7,7 +7,7 @@ where I study the evolutionary genetics and ecology of mountain birds. I'm also 
 work has appeared in the *The Los Angeles Review of Books*, 
 *Jacobin*, and *The Stranger.*
 
-![](/images/wilhelm.jpg)
+![](/images/mfdove.jpg)
   
 I spend my time thinking about how landscapes shape the processes responsible for 
 biodiversity, and how [culture, politics](http://www.thestranger.com/authors/23759410/ethan-linck), and the [history of science](http://www.hypocritereader.com/59/mayr) 
