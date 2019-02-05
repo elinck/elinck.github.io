@@ -2,8 +2,6 @@
 layout: default
 ---
 
-In my free time I enjoy competing in long distance running and ski mountaineering races. 
-
 ![racing](/images/racing2.jpg)
 
 ## 2019
