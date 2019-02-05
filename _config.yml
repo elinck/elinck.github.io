@@ -12,4 +12,3 @@ pages_list:
   Gallery: '/photos'
 gems:
   - jekyll-feed
-url: "https://elinck.org"
