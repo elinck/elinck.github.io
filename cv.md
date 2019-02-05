@@ -95,9 +95,7 @@ Biology 200: Introductory Biology II. Fall 2014. Teaching Assistant. Department 
 Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Teaching Assistant. Department of Biology, University of Washington.  
 
 Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. Department of Biology, Reed College. 
-  
-Undergraduate Researcher Mentorship. Spring 2017 - present. M. Tofflemire, S. Aeluro (informal). 
-  
+    
 ## Honors
 
 **NSF GRFP Honorable Mention.** 2016. 
