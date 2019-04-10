@@ -22,7 +22,7 @@ B.A. 2009 - 2013. **Reed College,** Portland, OR
 ## Publications 
 
 **Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 
-In press. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. (*Systematic Biology.*) *bioRxiv* DOI: [10.1101/491688](https://doi.org/10.1101/491688)  
+In press. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology.* *bioRxiv* DOI: [10.1101/491688](https://doi.org/10.1101/491688)  
   
 **Linck, E.**, Battey, C.J. In press. Minor allele frequency thresholds strongly affect population 
 structure inference with genomic datasets. *Molecular Ecology Resources*. DOI: [10.1111/1755-0998.12995](https://doi.org/10.1111/1755-0998.12995)  
