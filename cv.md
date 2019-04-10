@@ -4,33 +4,31 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 020419; see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)
+(*updated 020419; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)
 
 ## Ethan Linck
 Ph.D. Candidate  
 University of Washington Dept. of Biology  
 Burke Museum of Natural History & Culture    
 6800 27th Ave NE Unit 1, Seattle, WA 98115  
-phone: (802) 777-6662  
 email: elinck@uw.edu  
 
 ## Education 
 
 Ph.D. 2014 - 2019 (*expected*). **University of Washington,** Seattle, WA  
 
-B.A. 2009 - 2013 **Reed College,** Portland, OR  
+B.A. 2009 - 2013. **Reed College,** Portland, OR  
 
 ## Publications 
 
+**Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 
+In Press. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. (*Systematic Biology.*) *bioRxiv* DOI: [10.1101/491688](https://doi.org/10.1101/491688)  
+  
 **Linck, E.**, Battey, C.J. In press. Minor allele frequency thresholds strongly affect population 
 structure inference with genomic datasets. *Molecular Ecology Resources*. DOI: [10.1111/1755-0998.12995](https://doi.org/10.1111/1755-0998.12995)  
 
 **Linck, E.**, Huber, H.C., Greeney, H.F., Sheldon, K.S. 2019. Nesting biology of the Blue-and-white Swallow 
-(*Pygochelidon cyanoleuca*) in northeastern Ecuador. *Ornitología Neotropical* 30, 5-10.   
-
-**Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2018. 
-Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. 
-*bioRxiv.* DOI: [10.1101/491688](https://doi.org/10.1101/491688)   
+(*Pygochelidon cyanoleuca*) in northeastern Ecuador. *Ornitología Neotropical* 30, 5-10. 
 
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018. 
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*
@@ -50,12 +48,15 @@ griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: [1
 
 **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7. 
-
-*In review*  
   
-**Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
+## Preprints 
 
-    
+**Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2019. Speciation with gene flow across an elevational gradient in New Guinea kingfishers. 
+*bioRxiv.* DOI: [10.1101/589044](https://doi.org/10.1101/589044) (In review, *PNAS.*)   
+   
+**Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. 
+Available on request.  (In review, *The Wilson Journal of Ornithology.*)  
+  
 ## Grants & Awards  
 
 **John S. Edwards Endowed Fund in Biology.** 2018. $1,500.   
@@ -95,7 +96,9 @@ Biology 200: Introductory Biology II. Fall 2014. Teaching Assistant. Department 
 Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Teaching Assistant. Department of Biology, University of Washington.  
 
 Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. Department of Biology, Reed College. 
-    
+  
+Undergraduate Researcher Mentorship. Spring 2017 - present. M. Tofflemire, S. Aeluro. 
+  
 ## Honors
 
 **NSF GRFP Honorable Mention.** 2016. 
@@ -131,7 +134,12 @@ Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. 
 **NSF REU Student.** 2011. Department of Biology, University of Washington.
 
 ## Invited Presentations
-
+  
+**Linck, E.** 2019. Confronting the Recreation-Conservation Divide: A Dialogue (Stegner Lecture). University of Utah Law School Wallace Stegner Center 24th Annual Symposium – Recreation 
+Challenges on Public Lands, Salt Lake City, UT.   
+  
+**Linck, E.** 2019. Natural selection, gene flow, and complexity in avian speciation. Pacific Lutheran University Biology Seminar, Tacoma, WA.  
+  
 **Linck, E.** 2018. Outdoor Recreation and Land Ethics for the 21st Century. Restoring the West: Multiple Use
 and Sustained Yield of Resources on Public Land: Is It Still Possible?, Logan, UT.
 
@@ -142,7 +150,7 @@ speciation with gene flow in birds. University of New Mexico Brown Bag Seminar, 
 tropical mountains? Insights from genomics and New Guinea kingfishers. University of the South 
 Pacific PaCE-SD Seminar, Suva, Fiji.
 
-## Other Oral Presentations
+## Other Academic Presentations
 
 **Linck, E.**, Battey, C.J.. 2018. One weird trick to break *structure*: Derived allele frequencies and the accurate inference of ancestry.
 Graduate Student Symposium, UW Biology, Seattle, WA.    
@@ -151,18 +159,15 @@ Graduate Student Symposium, UW Biology, Seattle, WA.
 Kingfishers? American Ornithological Society Meeting, Tucson, AZ. 
 
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
-A Migratory Divide In The Painted Bunting (*Passerina ciris*). Rocky Mountain Biology Laboratory Graduate 
+A Migratory Divide In The Painted Bunting (*Passerina ciris*). (Presenting author.) Rocky Mountain Biology Laboratory Graduate 
 Student Talks, Gothic, CO.  
   
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2017. 
-A Migratory Divide In The Painted Bunting (*Passerina ciris*) (poster). Evolution Meetings, Portland, OR.
+A Migratory Divide In The Painted Bunting (*Passerina ciris*). (Co-presented poster.) Evolution Meetings, Portland, OR.
   
 **Linck, E.** 2017. Phenotype, species limits, and adaptation in a New Guinea kingfisher. Graduate Student Symposium,
 UW Biology, Seattle, WA.  
-  
-**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Trilogy Bird Club, Redmond, WA. 
 
-**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Eastside Audubon Society, Kirkland, WA. 
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
 migratory behavior in Painted Buntings with specimen collections and remote
@@ -181,21 +186,27 @@ Urquhart, G.R., Maes, J.M., **Linck, E.** 2015. Critical Uncertainties and Gaps 
 Second International Workshop on the Interoceanic Canal through Nicaragua, Managua, Nicaragua.
 
 **Linck, E.** 2015. Guest Lecture: Island Biogeography. Biology 472: Community
-Ecology, UW Biology, Seattle, WA.
-
+Ecology, UW Biology, Seattle, WA.  
+  
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
 griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium,
-San Francisco, CA.
-
+San Francisco, CA.  
+  
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (Zosterops
-griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR.
-
+griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR.  
+  
 **Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade
 White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
-(STARs) Seminar Series, Reed College, Portland, OR.
-
-## Selected Popular Writing
-
+(STARs) Seminar Series, Reed College, Portland, OR.  
+  
+## Public Presentations  
+  
+**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Trilogy Bird Club, Redmond, WA.  
+  
+**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Eastside Audubon Society, Kirkland, WA.  
+  
+## Selected Popular Writing  
+  
 [Your stoke won't save us](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us/). 2018. *High Country News.*  
   
 [Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/#!) 2018. *Los Angeles Review of Books.*  
@@ -279,13 +290,31 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
 
 ## Collaborators
-CJ Battey (U Washington); E Bridge (U Oklahoma); R Bryson (U Washington); R Cañales (UA
-Nuevo León); Duckles (U Oklahoma); J Dumbacher (California Academy of Sciences); P van
-Els (U Gronigen); K Epperly (U Washington); BG Freeman (U British Columbia); C French (U
-Washington); E Fricke (U Iowa); HF Greeney (Yanayacu Biological Station); Z Hanna (UC
-Berkeley); HC Huber (U Washington); J McCormack (Occidental College); A Navarro-Siguenza
-(UNAM); H Rogers (U Iowa); S Rohwer (U Washington); S Schaack (Reed College); A Sellas
-(California Academy of Sciences); K Sheldon (U Tennessee); D Slager (U Washington); G
-Spellman (Denver Museum of Nature and Science); E Zarza (Occidental College)
+C.J. Battey (U Washington); D. Slager (U Washington); C. French (U Washington); E. Bridge (U Oklahoma); R. Bryson (U Washington); J. Duckles (U Oklahoma); J. 
+Dumbacher (California Academy of Sciences); K. Epperly (U Washington); E. Fricke (U Iowa); R. Guralnick (U
+Florida); Z. Hanna (UC Berkeley); J. McCormack (Occidental College); A. Navarro-Siguenza (UNAM); A. Sellas (California Academy of Sciences); H. Rogers (U Iowa); S. Rohwer (U
+Washington), S. Schaack (Reed College), K. Sheldon (U Tennessee), E. Zarza (Occidental College)
+
+## References
+
+**John Klicka**  
+Curator of Birds, Burke Museum of Natural History and Culture  
+Don and Betts Baepler Endowed Professor, University of Washington Department of Biology  
+Box 351800 Kincaid Hall  
+Seattle, WA 98195 USA  
+klicka@uw.edu  
+
+**John P. Dumbacher**  
+Curator of Ornithology and Mammalogy, California Academy of Sciences  
+55 Music Concourse Drive  
+Golden Gate Park  
+San Francisco, CA 94118 USA  
+jdumbacher@calacademy.org  
+
+**Sarah Schaack**  
+Associate Professor, Reed College Department of Biology  
+3203 Southeast Woodstock Boulevard  
+Portland, OR 97202 USA  
+schaack@reed.edu  
 
 [back](./)
