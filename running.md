@@ -5,6 +5,7 @@ layout: default
 ![racing](/images/racing2.jpg)
 
 ## 2019
+* February 23: Patrol Race, 1st, 4:35  
 * February 2: Loup Loup Randonee Race, 3rd, 3:53  
 * January 19: Capitol Peak 26K, 2nd, 1:50  
   
