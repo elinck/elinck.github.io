@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m an evolutionary biologist and population geneticist interested in how ecology, geography, and demography interact to shape genomes and generate biological diversity. I received my Ph.D. from the University of Washington Department of Biology, working in the [Klicka Lab](https://klickalab.com/).
+I’m an evolutionary biologist and population geneticist interested in how ecology, geography, and demography interact to shape genomes and generate biological diversity. Currently a postdoc in [Dr. Kimberly Sheldon's lab](http://www.biogeographyresearch.org/) at University of Tennessee, Knoxville, I received my Ph.D. from the University of Washington Department of Biology, working in the [Klicka Lab](https://klickalab.com/).
 
 ![](/images/mfdove.jpg)
 

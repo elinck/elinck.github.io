@@ -6,12 +6,12 @@ layout: default
 
 (*updated 052119; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)
 
-## Ethan Linck
-Postdoctoral Research Associate
-Department of Ecology & Evolutionary Biology
-University of Tennessee, Knoxville
+## Ethan Linck  
+Postdoctoral Research Associate  
+Department of Ecology & Evolutionary Biology  
+University of Tennessee, Knoxville  
 email: elinck@uw.edu  
-
+  
 ## Education
 
 Ph.D., 2019. **University of Washington,** Seattle, WA  
