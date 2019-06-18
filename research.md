@@ -11,7 +11,7 @@ in nonmodel organisms. I collect empirical data from wild populations of birds a
 After decades of imprecise verbal models and a general sense that Darwin [misnamed his famous book](https://doi.org/10.1098/rstb.2008.0081),
 a resurgence of theory and the onset of high throughput DNA sequencing has reinvigorated the study of speciation. We're now faced with reconciling
 biological intuition and evidence from species distributions (that suggest geographic isolation is crucial to most speciation events) with new theory
-and genomic evidence (which suggest that gene flow and selection are rampant throughout the evolutionary history of diverging lineages). The [central chapter of my dissertation](https://doi.org/10.1101/589044) used young sister species segregating across a strong environmental gradient to understand the the relative importance of these forces using phenotypic and whole genome sequencing. Based partly on these results, my collaborator [CJ Battey](http://cjbattey.com/) and I are finish up a manuscript that on establishes the relative
+and genomic evidence (which suggest that gene flow and selection are rampant throughout the evolutionary history of diverging lineages). The [central chapter of my dissertation](https://doi.org/10.1101/589044) used young sister species segregating across a strong environmental gradient to understand the the relative importance of these forces using phenotypic data and whole genome sequencing. Based partly on these results, my collaborator [CJ Battey](http://cjbattey.com/) and I are finish up a manuscript that on establishes the relative
 ease of a model of speciation with periodic gene flow pulses, likely a common historical scenario.
 
 ![](/images/manhattan_web.png)
