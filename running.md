@@ -5,6 +5,8 @@ layout: default
 ![racing](/images/racing2.jpg)
 
 ## 2019  
+* July 13: Power of Four 25K, 9th, 2:16  
+* June 26: American Ornithological Society Ostrich Scramble 5K, 1st, 16:49   
 * April 15: Boston Marathon, 2,487rd, 2:58  
 * February 23: Patrol Race, 1st, 4:35  
 * February 2: Loup Loup Randonee Race, 3rd, 3:53  
@@ -14,6 +16,7 @@ layout: default
 * September 7th: Wasatch 100, DNF  
 * June 30: Needles 25K, 1st, 2:59  
 * May 27: Vermont City Marathon, 26th, 2:49  
+* April 12: American Ornithological Society Ostrich Scramble 5K, 1st, 18:42   
 
 ## 2017
 * September 2: Grand Traverse Mountain Run 40M, 9th, 6:57
