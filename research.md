@@ -26,7 +26,7 @@ The movement of individual organisms across landscapes affects most processes I 
 ## How do we know what we know?  
 
 Biology is messy. Massive DNA sequence datasets require computational analyses and interpretation at the limits of our current knowledge, adding another layer of noise to the signals of biological processes. Because it's useful to understand what can be contributing to uncertainty in your conclusions, I'm interested in methods for generating and analyzing genomic data. I've worked to validate laboratory [methods for collecting population genomic data from degraded DNA sources](https://doi.org/10.1002/ece3.3065),
-and to understand how coalescent theory can explain why bioinformatic filtering steps can [alter inferred patterns of population genetic structure](https://doi.org/10.1111/1755-0998.12995). I have also used a classic taxonomic conundrum in ornithology to demonstrate why incomplete geographic sampling can mislead us when we try to understand phylogenetic relationships and species limits.
+and to understand how coalescent theory can explain why bioinformatic filtering steps can [alter inferred patterns of population genetic structure](https://doi.org/10.1111/1755-0998.12995). I have also used a classic taxonomic conundrum in ornithology to demonstrate [why incomplete geographic sampling can mislead us](https://doi.org/10.1093/sysbio/syz027) when we try to understand phylogenetic relationships and species limits.
 
 ![](/images/sfs_ridge.png)
 *Mutational age and minor allele frequencies across a coalescent tree*
