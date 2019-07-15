@@ -21,7 +21,7 @@ Based partly on these results, my collaborator [CJ Battey](http://cjbattey.com/)
 The movement of individual organisms across landscapes affects most processes I can think of in ecology and evolutionary biology. Unfortunately, dispersal is difficult to observe and difficult to predict, and we have to get creative. To characterize migration routes in an iconic songbird, I have used both [DNA sequence data](https://doi.org/10.1086/695439) and [natural history museum collection metadeta](https://doi.org/10.7717/peerj.1871) to track how populations change between the breeding and wintering seasons and infer their connectivity. To understand the environments where dispersal is and isn't likely to be adaptive, I have investigated drift / migration balance in [highly vagile "supertramp" species](https://doi.org/10.1016/j.ympev.2015.08.018) living in disturbance-prone coral atolls. I'm currently testing predictions of Dan Janzen's classic paper on why mountain passes are "higher" in the tropics (an ongoing collaboration with my current postdoc advisor [Kimberly Sheldon](http://www.biogeographyresearch.org/)), and early next year I'll get the chance to combine these interests as I begin a two year NSF postdoctoral fellowship aimed at understanding the population genetics of species range limits in Andean birds.
 
 ![](/images/range_limits.png)
-*Mutational age and minor allele frequencies across a coalescent tree*
+*The effect of maladaptive alleles on effective population size at a range limit*
 
 ## How do we know what we know?  
 

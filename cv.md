@@ -21,7 +21,7 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications
 
-**Linck, E.**, Fricke, E., Rogers, H. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. In press. *The Wilson Journal of Ornithology.*  
+**Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
 
 **Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. In press. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology.* *bioRxiv* DOI: [10.1101/491688](https://doi.org/10.1101/491688)  
 
