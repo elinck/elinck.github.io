@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m an evolutionary biologist interested in dispersal and its consequences for speciation, range limits, and biodiversity. I tend to see things through the lens of population genetics. Now a postdoc in [Dr. Kimberly Sheldon's lab](http://www.biogeographyresearch.org/) at University of Tennessee, Knoxville, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
+I’m an evolutionary biologist interested in dispersal and its consequences for speciation, range limits, and biodiversity. I tend to see things through the lens of population genetics. Now a postdoc in the [Sheldon's Lab](http://www.biogeographyresearch.org/) at the University of Tennessee, Knoxville, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
 
 ![](/images/28.jpg)
 
