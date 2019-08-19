@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 071519; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)
+(*updated 081919; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck  
 Postdoctoral Research Associate  
@@ -47,14 +47,19 @@ an aggregated resource. *PeerJ* 4:e1871. DOI: [10.7717/peerj.1871](https://doi.o
 "supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops
 griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: [10.1016/j.ympev.2015.08.018](https://doi.org/10.1016/j.ympev.2015.08.018)
 
-**Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe, SHP. *Muruk* 10(1), 4-7.  
+**Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
+SHP. *Muruk* 10(1), 4-7.  
 
 ## Preprints
 
 **Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2019. Speciation with gene flow across an elevational gradient in New Guinea kingfishers.
-*bioRxiv.* DOI: [10.1101/589044](https://doi.org/10.1101/589044) (In review, *PNAS.*)   
+*bioRxiv.* DOI: [10.1101/589044](https://doi.org/10.1101/589044)    
 
 ## Grants & Awards  
+
+**NSF Postdoctoral Research Fellowship in Biology.** 2019. $138,000.    
+
+**John S. Edwards Endowed Fund in Biology.** 2018. $1,500.  
 
 **John S. Edwards Endowed Fund in Biology.** 2018. $1,500.   
 
@@ -62,9 +67,9 @@ griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: [1
 
 **American Museum of Natural History Chapman Grant.** 2018. $2,000.  
 
-**NSF Doctoral Dissertation Improvement Grant.** 2017. $20,084.
+**NSF Doctoral Dissertation Improvement Grant.** 2017. $20,084.  
 
-**NDSEG Fellowship.** 2016. $172,000.
+**NDSEG Fellowship.** 2016. $172,000.  
 
 **WRF-Hall Fellowship.** 2016. $13,000.
 
@@ -100,7 +105,9 @@ Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. 
 
 ## Appointments
 
-**Postoctoral Research Associate** 2019 - present. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
+**Postoctoral Research Associate.** 2019 - present. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
+
+**Research Affiliate.** 2019 - present. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
 
 **National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
 
@@ -144,6 +151,8 @@ tropical mountains? Insights from genomics and New Guinea kingfishers. Universit
 Pacific PaCE-SD Seminar, Suva, Fiji.
 
 ## Contributed Presentations  
+
+**Linck, E.**, Celi, J.E., Sheldon, K.S. 2019. Climate as a barrier to dispersal over mountain passes: is gene flow reduced across elevational gradients in tropical Andean beetles? Ecological Society of America Meeting, Louisville, KY.     
 
 **Linck, E.**, Battey, C.J. 2019. Pleistocene glacial cycles and the relative ease of speciation with periodic gene flow. American Ornithological Society Meeting, Anchorage, AK.  
 
@@ -274,22 +283,22 @@ White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *Systematic Biology*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics*, *Ecosphere*.  
+- Peer reviewer, *Systematic Biology* (2), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (1), *Heredity* (1), *Genes, Genomes, Genetics* (1).    
 - Scripts publicly available on GitHub (http://github.com/elinck)  
-- Sequence data publicly available on GenBank / Dryad
+- Sequence data publicly available on GenBank / Dryad  
 
 ## Society Membership
 The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The American Ornithological Society  
 
 ## Graduate Committee  
-J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser
+J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  
 
 ## Collaborators
 **CJ Battey** (U Washington); **E Bridge** (U Oklahoma); **R Bryson** (U Washington); **R Cañales** (UA Nuevo León); **J Duckles** (U Oklahoma); **J Dumbacher** (California Academy of Sciences); **P van Els** (U Gronigen); **K Epperly** (U Washington); **BG Freeman** (U British Columbia); **C French** (U Washington); **E Fricke** (U Iowa); **HF Greeney** (Yanayacu Biological Station); **Z Hanna** (UC Berkeley); **HC Huber** (U Washington); **J McCormack** (Occidental College); **A Navarro-Siguenza** (UNAM); **H Rogers** (U Iowa); **S Rohwer** (U Washington); **S Schaack** (Reed College); **A Sellas** (California Academy of Sciences); **K Sheldon** (U Tennessee); **D Slager** (U Washington); **G Spellman** (Denver Museum of Nature and Science); **Paul W. Sykes, Jr.** (USGS Patuxent Wildlife Research Center).
 
 ## References
 
-**Kimberly S. Sheldon**   
+**Kimberly S. Sheldon**    
 Assistant Professor  
 Department of Ecology & Evolutionary Biology  
 569 Dabney Hall  
