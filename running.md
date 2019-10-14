@@ -2,7 +2,7 @@
 layout: default
 ---
 
- (see also my [Strava profile](https://www.strava.com/athletes/1503773)*)  
+ (*see also my [Strava profile](https://www.strava.com/athletes/1503773)*)  
 
 ![racing](/images/racing2.jpg)
 
