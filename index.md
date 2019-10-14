@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I’m an evolutionary biologist interested in dispersal and its consequences for speciation, range limits, and biodiversity. I tend to see things through the lens of population genetics. Now a postdoc in the [Sheldon Lab](http://www.biogeographyresearch.org/) at the University of Tennessee, Knoxville, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
+I’m an evolutionary biologist interested in the processes that generate and maintain biological diversity. I tend to see things through the lens of population genetics. Now a postdoc in the [Sheldon Lab](http://www.biogeographyresearch.org/) at the University of Tennessee, Knoxville, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
 
-![](/images/28.jpg)
+![](/images/bismarck.jpg)
 
 I'm also a freelance writer and photographer whose work has appeared in the *The Los Angeles Review of Books*,
 *High Country News*, and *bioGraphic.* I've written about the relationships between [humans

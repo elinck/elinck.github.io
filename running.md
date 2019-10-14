@@ -2,13 +2,17 @@
 layout: default
 ---
 
+ (see also my [Strava profile](https://www.strava.com/athletes/1503773)*)  
+
 ![racing](/images/racing2.jpg)
 
 ## 2019  
+* September 28: Mt. Taylor 50K, 1st, 4:39  
+* September 7: Devil on the Divide 50K, 2nd, 5:09    
 * July 13: Power of Four 25K, 9th, 2:16  
 * June 26: American Ornithological Society Ostrich Scramble 5K, 1st, 16:49   
 * April 15: Boston Marathon, 2,487rd, 2:58  
-* February 23: Patrol Race, 1st, 4:35  
+* February 23: Patrol Race, 1st, 4:35 (skis)  
 * February 2: Loup Loup Randonee Race, 3rd, 3:53  
 * January 19: Capitol Peak 26K, 2nd, 1:50  
 
