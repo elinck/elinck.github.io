@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm am a broadly trained evolutionary biologist and ecologist interested in the processes that generate and maintain biological diversity. My research merges natural history and field biology with genomics and population genetics theory, typically working at the intersection of ecological and evolutionary time scales (**Figure 1**). I collect empirical data from wild populations of birds and insects and validate models using evolutionary simulations and theory. I'm especially passionate about tropical mountains, natural history museums, and trying to understand how your tools work.  
+I'm am a broadly trained evolutionary biologist and ecologist interested in the processes that generate and maintain biological diversity. My research merges natural history and field biology with genomics and population genetics theory, typically working at the intersection of ecological and evolutionary time scales. I collect empirical data from wild populations of birds and insects and validate models using evolutionary simulations and theory. I'm especially passionate about tropical mountains, natural history museums, and trying to understand how your tools work.  
 
 ![Areas of research focus.](/images/research_statement.png)
 

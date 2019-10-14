@@ -13,7 +13,7 @@ layout: default
 * June 26: American Ornithological Society Ostrich Scramble 5K, 1st, 16:49   
 * April 15: Boston Marathon, 2,487rd, 2:58  
 * February 23: Patrol Race, 1st, 4:35 (skis)  
-* February 2: Loup Loup Randonee Race, 3rd, 3:53  
+* February 2: Loup Loup Randonee Race, 3rd, 3:53 (skis)  
 * January 19: Capitol Peak 26K, 2nd, 1:50  
 
 ## 2018  
