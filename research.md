@@ -16,7 +16,7 @@ and genomic evidence (which suggest that gene flow and selection are rampant thr
 ![](/images/manhattan_new.png)
 *The genomic landscape of divergence in* Syma *kingfishers*
 
-### Species ranges and population differentiation  
+## Species ranges and population differentiation  
 
 What determines whether a species expands its range, and whether it differentiates across it? The answer is partly related to physical geography and dispersal ability. To describe these factors, I have previously used both DNA sequence data and natural history museum collection metadeta, identifying [a migratory divide](https://doi.org/10.1086/695439) and [circular migration route](https://doi.org/10.7717/peerj.1871) in painted buntings, as well as unexpected population genetic structure in [highly vagile island white-eyes](https://doi.org/10.1016/j.ympev.2015.08.018). But it is also related to the interaction between gene flow and local adaptation, and its consequences for demography. My [current postdoctoral research](https://doi.org/10.1101/783233) with Dr. Kimberly Sheldon asks whether narrow thermal niches are sufficient to generate isolation-by-environment at small spatial scales, and what the consequences of high gene flow is for the evolution of elevational ranges. Early next year I’ll get the chance to combine many of these interests as I begin a two year NSF postdoctoral fellowship at the [University of New Mexico](https://www.unmornithology.org/), aimed at understanding the population genetics of species range limits in Andean birds.  
 
