@@ -8,7 +8,6 @@ I'm am a broadly trained evolutionary biologist and ecologist interested in the 
 
 ## Environmental drivers of speciation and hybridization  
 
-![](/images/speciation_model.png)
 After decades of imprecise verbal models and a general sense that Darwin [misnamed his famous book](https://doi.org/10.1098/rstb.2008.0081),
 a resurgence of theory and the onset of high throughput DNA sequencing has reinvigorated the study of speciation. We're now faced with reconciling
 biological intuition and evidence from species distributions (that suggest geographic isolation is crucial to most speciation events) with new theory
@@ -30,7 +29,7 @@ Biology is messy. Massive DNA sequence datasets require computational analyses a
 and to understand how coalescent theory can explain why bioinformatic filtering steps can [alter inferred patterns of population genetic structure](https://doi.org/10.1111/1755-0998.12995). I have also used a classic taxonomic conundrum in ornithology to demonstrate [why incomplete geographic sampling can mislead us](https://doi.org/10.1093/sysbio/syz027) when we try to understand phylogenetic relationships and species limits.
 
 ![](/images/sfs_ridge.png)
-*Mutational age and minor allele frequencies across a coalescent tree* 
+*Mutational age and minor allele frequencies across a coalescent tree*
 
 ## Tropical natural history  
 
