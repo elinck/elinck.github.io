@@ -3,12 +3,13 @@ description: Postdoc @ U. Tennessee
 show_downloads: true
 google_analytics: UA-98690382-1
 permalink: /:categories/:year-:month-:day-:title.html
-pages_list:       
+pages_list:
   Home: '/index'
   CV: '/cv'
   Research: '/research'
   Running: '/running'
   News: '/blog'
   Gallery: '/photos'
-gems:
+plugins:
   - jekyll-feed
+github: [metadata]  
