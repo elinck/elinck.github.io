@@ -23,7 +23,7 @@ B.A. 2013. **Reed College,** Portland, OR
 
 **Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
 
-**Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2019. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology* 68(6), 956—966. DOI: [10.1093/sysbio/syz027](https://doi.org/10.1101/491688)  
+**Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2019. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology* 68(6), 956-966. DOI: [10.1093/sysbio/syz027](https://doi.org/10.1101/491688)  
 
 **Linck, E.**, Battey, C.J. 2019. Minor allele frequency thresholds strongly affect population
 structure inference with genomic datasets. *Molecular Ecology Resources* 19(3), 639-647. DOI: [10.1111/1755-0998.12995](https://doi.org/10.1111/1755-0998.12995)  
@@ -123,7 +123,7 @@ Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. 
 
 **Teaching Assistant.** 2014-2016. Department of Biology, University of Washington.
 
-**Research Assistant.** 2014. Museum of Natural History, University of Colorado Boulder.
+**Research Assistant.** 2014. Museum of Natural History, University of Colorado, Boulder.
 
 **Winter Caretaker.** 2013-2014. Rocky Mountain Biological Laboratory.
 
@@ -139,7 +139,7 @@ Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. 
 
 **Linck, E.** 2019. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natual Science Seminar Series, Baton Rouge, LA.   
 
-Sheldon, K.S., **Linck, E.** (Joint presentation.) 2019. Fisiología térmica, distribuciones y especiacón en los trópicos. Universidad Regional Amazónica Ikiam Seminar Series, Tena, Napo, EC.    
+Sheldon, K.S., **Linck, E.** (Joint presentation.) 2019. Fisiología térmica, distribuciones y especiación en los trópicos. Universidad Regional Amazónica Ikiam Seminar Series, Tena, Napo, EC.    
 
 **Linck, E.** 2019. Confronting the Recreation-Conservation Divide: A Dialogue (Stegner Lecture). University of Utah Law School Wallace Stegner Center 24th Annual Symposium - Recreation
 Challenges on Public Lands, Salt Lake City, UT.   
@@ -194,15 +194,12 @@ Second International Workshop on the Interoceanic Canal through Nicaragua, Manag
 Ecology, UW Biology, Seattle, WA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium,
-San Francisco, CA.  
+griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium, San Francisco, CA.  
 
-**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (Zosterops
-griseotinctus.) Oral Thesis Defense, Reed College, Portland, OR.  
+**Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
+griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.  
 
-**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade
-White-eye (Zosterops griseotinctus.) Students Talking About thesis Research
-(STARs) Seminar Series, Reed College, Portland, OR.  
+**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research (STARs) Seminar Series, Reed College, Portland, OR.  
 
 ## Public Presentations  
 
