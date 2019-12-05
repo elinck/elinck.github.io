@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 102919; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 120519; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck  
 Postdoctoral Research Associate  
@@ -23,29 +23,28 @@ B.A. 2013. **Reed College,** Portland, OR
 
 **Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
 
-**Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2019. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology* 68(6), 956-966. DOI: [10.1093/sysbio/syz027](https://doi.org/10.1101/491688)  
+**Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2019. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology* 68(6), 956-966.  
 
 **Linck, E.**, Battey, C.J. 2019. Minor allele frequency thresholds strongly affect population
-structure inference with genomic datasets. *Molecular Ecology Resources* 19(3), 639-647. DOI: [10.1111/1755-0998.12995](https://doi.org/10.1111/1755-0998.12995)  
+structure inference with genomic datasets. *Molecular Ecology Resources* 19(3), 639-647.   
 
 **Linck, E.**, Huber, H.C., Greeney, H.F., Sheldon, K.S. 2019. Nesting biology of the Blue-and-white Swallow
 (*Pygochelidon cyanoleuca*) in northeastern Ecuador. *Ornitología Neotropical* 30, 5-10.  
 
 Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018.
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*
-191(2), 259-268. DOI: [10.1086/695439](https://doi.org/10.1086/695439)
+191(2), 259-268.  
 
 **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization
-capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8).
-DOI: [10.1002/ece3.3065](https://doi.org/10.1002/ece3.3065)
+capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8).  
 
 **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
 migration patterns in Painted Buntings using the world's bird collections as
-an aggregated resource. *PeerJ* 4:e1871. DOI: [10.7717/peerj.1871](https://doi.org/10.7717/peerj.1871)
+an aggregated resource. *PeerJ* 4:e1871.   
 
 **Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread
 "supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121. DOI: [10.1016/j.ympev.2015.08.018](https://doi.org/10.1016/j.ympev.2015.08.018)
+griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121.   
 
 **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7.  
@@ -87,15 +86,21 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## Teaching Experience  
 
-Biology 472: Community Ecology. Fall 2015. Teaching Assistant. Department of Biology, University of Washington.  
+*As Teaching Assistant:*  
 
-Biology 452: Vertebrate Biology. Summer 2015. Teaching Assistant. Department of Biology, University of Washington.  
+Biology 472: Community Ecology. Fall 2015. Department of Biology, University of Washington.  
 
-Biology 200: Introductory Biology II. Fall 2014. Teaching Assistant. Department of Biology, University of Washington.   
+Biology 452: Vertebrate Biology. Summer 2015. Department of Biology, University of Washington.  
 
-Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Teaching Assistant. Department of Biology, University of Washington.  
+Biology 200: Introductory Biology II. Fall 2014. Department of Biology, University of Washington.   
 
-Biology 366: Population Ecology and Evolution. Teaching Assistant. Spring 2013. Department of Biology, Reed College.
+Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Department of Biology, University of Washington.  
+
+Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biology, Reed College.
+
+*As Workshop Instructor:*  
+
+BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R." 2019. University of Colorado, Boulder.  
 
 ## Honors
 
@@ -194,12 +199,15 @@ Second International Workshop on the Interoceanic Canal through Nicaragua, Manag
 Ecology, UW Biology, Seattle, WA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium, San Francisco, CA.  
+griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium,
+San Francisco, CA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
 griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.  
 
-**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research (STARs) Seminar Series, Reed College, Portland, OR.  
+**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade
+White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
+(STARs) Seminar Series, Reed College, Portland, OR.  
 
 ## Public Presentations  
 
@@ -286,7 +294,7 @@ griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.
 
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *Systematic Biology* (2), *Molecular Ecology* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (1).    
+- Peer reviewer, *Systematic Biology* (2), *Molecular Ecology* (3), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (1).    
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
@@ -321,6 +329,6 @@ Curator of Ornithology and Mammalogy, California Academy of Sciences
 55 Music Concourse Drive  
 Golden Gate Park  
 San Francisco, CA 94118 USA  
-jdumbacher@calacademy.org   
+jdumbacher@calacademy.org  
 
 [back](./)
