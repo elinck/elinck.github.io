@@ -4,14 +4,14 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 021020; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 030120; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
-## Ethan Linck  
-Postdoctoral Research Associate  
-Department of Ecology & Evolutionary Biology  
-University of Tennessee, Knoxville   
-email: elinck@uw.edu   
-web: https://elinck.org/  
+## Ethan Linck   
+NSF Postdoctoral Research Fellow in Biology  
+Department of Biology & Museum of Southwestern Biology  
+University of New Mexico   
+email: ethanblinck@gmail.com  
+web: https://elinck.org/    
 
 ## Education
 
@@ -19,16 +19,18 @@ Ph.D. 2019. **University of Washington,** Seattle, WA
 
 B.A. 2013. **Reed College,** Portland, OR  
 
-## Publications
+## Publications  
 
-**Linck, E.**. In press. Bird Species: How They Arise, Modify and Vanish. *The Auk.*  
+**Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*   
 
-**Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*  
+**Linck, E.**, Celi, J.E., Sheldon, K.S. In press. Panmixia across elevation in thermally sensitive Andean dung beetles. *Ecology and Evolution.* Preprint DOI: [10.1101/783233](https://doi.org/10.1101/783233)       
+
+**Linck, E.**. 2020. Bird Species: How They Arise, Modify and Vanish. *The Auk* 137, 1-2.   
 
 **Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2019. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology* 68(6), 956-966.  
 
 **Linck, E.**, Battey, C.J. 2019. Minor allele frequency thresholds strongly affect population
-structure inference with genomic datasets. *Molecular Ecology Resources* 19(3), 639-647.   
+structure inference with genomic datasets. *Molecular Ecology Resources* 19(3), 639-647.    
 
 **Linck, E.**, Huber, H.C., Greeney, H.F., Sheldon, K.S. 2019. Nesting biology of the Blue-and-white Swallow
 (*Pygochelidon cyanoleuca*) in northeastern Ecuador. *Ornitología Neotropical* 30, 5-10.  
@@ -52,7 +54,6 @@ griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121.
 SHP. *Muruk* 10(1), 4-7.  
 
 ## Preprints
-**Linck, E.**, Celi, J.E., Sheldon, K.S. 2019. Panmixia across elevation in thermally sensitive Andean dung beetles. *bioRxiv.* DOI: [10.1101/783233](https://doi.org/10.1101/783233)     
 
 **Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv.* DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
 
@@ -114,9 +115,11 @@ BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R.
 
 ## Appointments
 
-**Postdoctoral Research Associate.** 2019 - present. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
+**National Science Foundation Postdoctoral Research Fellow in Biology.** 2020. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
 
 **Research Affiliate.** 2019 - present. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
+
+**Postdoctoral Research Associate.** 2019 - 2020. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
 
 **National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
 
@@ -219,6 +222,8 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 ## Selected Popular Writing  
 
+[Throwing wolves to the vote](https://www.hcn.org/issues/52.3/south-wolves-colorado-throws-wolves-to-the-vote). 2020. *High Country News.*  
+
 [Your stoke won't save us](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us/). 2018. *High Country News.*  
 
 [Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/#!) 2018. *Los Angeles Review of Books.*  
@@ -298,16 +303,14 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk* (2), *Systematic Biology* (2), *Molecular Ecology* (4), *Molecular
-Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1),
-*Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity*
-(2), *Genes, Genomes, Genetics* (1), *Proceedings of the Royal Society B* (1); Society of
+- Peer reviewer, *The Auk* (2), *Systematic Biology* (2), *Molecular Ecology* (4), *Evolution* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity*
+(2), *Genes, Genomes, Genetics* (2), *Proceedings of the Royal Society B* (1); Society of
 Systematic Biology Graduate Student Research Award (2)  
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
 ## Society Membership
-The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The American Ornithological Society  
+The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The American Ornithological Society, The Ecological Society of America    
 
 ## Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  

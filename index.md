@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m an evolutionary biologist interested in the processes that generate and maintain biological diversity. I tend to see things through the lens of population genetics. Now a postdoc in the [Sheldon Lab](http://www.biogeographyresearch.org/) at the University of Tennessee, Knoxville, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
+I’m an evolutionary biologist interested in the processes that generate and maintain biological diversity. I tend to see things through the lens of population genetics. Now a National Science Foundation Postdoctoral Research Fellow in Biology in the [Witt Lab](https://www.unmornithology.org/) at the University of New Mexico, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
 
 ![](/images/bismark.jpg)
 
