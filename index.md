@@ -2,10 +2,9 @@
 layout: default
 ---
 
-I’m an evolutionary biologist interested in the processes that generate and maintain biological diversity. I tend to see things through the lens of population genetics. Now a National Science Foundation Postdoctoral Research Fellow in Biology in the [Witt Lab](https://www.unmornithology.org/) at the University of New Mexico, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
+I’m an evolutionary biologist and ecologist interested in the processes that generate and maintain biological diversity, particularly in mountains. Now a National Science Foundation Postdoctoral Research Fellow in Biology in the [Witt Lab](https://www.unmornithology.org/) at the University of New Mexico, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
 
 ![](/images/bismark.jpg)
 
 I'm also a freelance writer and photographer whose work has appeared in the *The Los Angeles Review of Books*,
-*High Country News*, and *bioGraphic.* I've written about the relationships between [humans
-and the natural world](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us), and between [science and politics](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/). You can read [more about my research here](research), or [see my publications, popular writing, and CV here](cv).
+*High Country News*, and *bioGraphic.* I've written about [wolves and democracy](https://www.hcn.org/issues/52.3/south-wolves-colorado-throws-wolves-to-the-vote), [recreation and conservation](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us), and [science and politics](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/). You can read [more about my research here](research), or [see my publications, popular writing, and CV here](cv).
