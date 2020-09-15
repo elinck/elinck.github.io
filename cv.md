@@ -89,7 +89,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.
 
-## Teaching Experience and Pedagogical Training
+## Teaching Experience
 
 *As Teaching Assistant:*  
 
@@ -212,8 +212,7 @@ Second International Workshop on the Interoceanic Canal through Nicaragua, Manag
 Ecology, UW Biology, Seattle, WA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium,
-San Francisco, CA.  
+griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium, San Francisco, CA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
 griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.  

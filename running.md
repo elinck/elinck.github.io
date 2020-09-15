@@ -18,7 +18,7 @@ I've been a trail runner since my first season of high school cross country, and
 * 2017 Silverton Alpine 50K, 1st, 4:27
 * 2017 Grin and Bear It 9M, 1st, 1:15
 * 2017 Yakima 25K, 2nd, 2:23  
-* 2017 Elk Mountain Grand Traverse, 10th, 8:50 (skis)]
+* 2017 Elk Mountain Grand Traverse, 10th, 8:50 (skis)
 * 2016 Deception Pass 25K, 1st, 2:01
 * 2016 Kennebec Mountain Run, 1st, 1:57
 * 2016 Rodeo Valley 50K, 1st, 4:27
@@ -26,7 +26,7 @@ I've been a trail runner since my first season of high school cross country, and
 * 2016 Yakima 25K, 2nd, 2:21
 * 2016 Geoduck Gallop Half Marathon, 1st, 1:14
 * 2015 Race To the Top of Vermont, 2nd, :36
-* 2015 White River 50m, 4th, 7:14</a>
+* 2015 White River 50m, 4th, 7:14
 * 2015 Magnuson Race Series 5K, 2nd, :16:21
 * 2014 Leadville Silver Rush 50m, 1st, 7:01
 * 2014 Gothic to CB 1/3rd Marathon, 3rd, :50
