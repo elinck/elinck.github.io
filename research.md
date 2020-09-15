@@ -3,11 +3,11 @@ layout: default
 ---
 I am a broadly trained, integrative evolutionary biologist and ecologist interested in the process responsible for generating and maintaining biological diversity. I am particularly interested in the forces shaping species range limits as a conceptual link between the historical process of speciation and population divergence, the present-day composition of ecological communities, and the future of plant and animal lineages on a warming planet.  
 
+![](/images/conceptual_figure-01.png)
+
 Most of my research is focused on montane faunas—primarily birds, but sometimes insects, too. Because mountains feature dramatic environmental gradients that exert strong selection pressures in geographically complex landscapes, they open up possibilities for teasing apart the relative role of neutral and adaptive processes in the origin of lineages and assembly of communities. They are also globally significant biodiversity hotspots, and increasingly threatened by climate change and anthropogenic disturbance.
 
 My work draws on data and tools from population genomics, phylogenetics, physiology, and macroecology. I am passionate about natural history (and natural history collections); the landscapes of the Western US, the Andes, and Melanesia; and understanding the role of biodiversity and conservation science in society.
-
-![](/images/conceptual_figure-01.png)
 
 ## Climate, mountains, and speciation
 
@@ -32,9 +32,6 @@ In five species of Andean dung beetles where we have strong a priori evidence of
 The majority of research projects I have been involved in have grappled with population genetic structure—whether as a primary phenomenon of study, the consequence of a process of interest, or as a confounding variable. My own training in evolutionary genetics began by inferring a gene tree from a single mitochondrial locus as an undergraduate and now regularly involves handling whole-genome sequence data from populations of nonmodel organisms. Beyond the major technological advances represented by this transition, I’ve often been struck by the conceptual differences between phylogenetics and phylogeography and traditional population genetics, even as the fields converged on the same evolutionary timescale and types of sequence data.
 
 This observation and endless hours of bioinformatic wrangling has led to a suite of questions, collaborations, and side projects focused on patterns of diversity below the species level. For example, [when do population genetic patterns reflect underlying tree structure and when don’t they](https://doi.org/10.1093/sysbio/syz027)? [How do minor allele frequency filtering choices affect our power to detect population genetic structure](https://doi.org/10.1111/1755-0998.12995), and why? [Can dispersal strategies help us predict levels of stratification](https://doi.org/10.1016/j.ympev.2015.08.018)? [And what biases are reduced-representation sequencing strategies prone to when applied to degraded DNA?](https://doi.org/10.1002/ece3.3065) I’ve addressed these topics in a variety of empirical systems in publications in *Systematic Biology*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, and *Ecology and Evolution*.
-
-![](/images/maf.png)
-*Minor allele frequency cutoffs and population assignment accuracy*
 
 ## Deep ecology, recreation, and conservation in the 21st century
 

@@ -21,7 +21,7 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-**Linck, E.**, Freeman, B.G., Dumbacher, J.P. In Press. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology.* Preprint DOI: [10.1101/589044](https://doi.org/10.1101/589044)
+**Linck, E.**, Freeman, B.G., Dumbacher, J.P. In press. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology.* Preprint DOI: [10.1101/589044](https://doi.org/10.1101/589044)
 
 **Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*   
 
@@ -123,13 +123,13 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 
 **National Science Foundation Postdoctoral Research Fellow in Biology.** 2020. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
 
-**Research Affiliate.** 2019 - present. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
+**Research Affiliate.** 2019-present. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
 
-**Postdoctoral Research Associate.** 2019 - 2020. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
+**Postdoctoral Research Associate.** 2019-2020. Department of Ecology & Evolutionary Biology, University of Tennessee, Knoxville.  
 
 **National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
 
-**Contributing Writer.** 2016 - 2018. *The Molecular Ecologist.*
+**Contributing Writer.** 2016-2018. *The Molecular Ecologist.*
 
 **Visiting Researcher.** 2016. Department of Ornithology & Mammology, California Academy of Sciences.
 
