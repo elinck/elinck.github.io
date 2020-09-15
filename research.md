@@ -43,6 +43,6 @@ As a biodiversity scientist, it’s difficult to disengage from the idea that ou
 
 These are questions that keep me up at night, and I’ve regularly grappled with them and what my role as a scientist is in longform writing for the public. Recently, I’ve grappled with the [tensions between recreation and conservation](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us) and [democracy and wolf reintroduction](https://www.hcn.org/issues/52.3/south-wolves-colorado-throws-wolves-to-the-vote) for *High Country News*, [reported on community conservation initiatives in Papua New Guinea as a photojournalist](https://www.biographic.com/where-the-rainforest-meets-the-road/) for *bioGraphic*, [and revisited Guha’s “Radical American Environmentalism: A Third World Critique”](http://hypocritereader.com/69/title) for *The Hypocrite Reader*.
 
-
+![](/images/bismark.jpg)  
 
 [back](./)
