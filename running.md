@@ -6,7 +6,7 @@ I've been a trail runner since my first season of high school cross country, and
 
 ![racing](/images/racing2.jpg)
 
-## Career highlights:
+### Career highlights:
 
 * 2019 Mt. Taylor 50K, 1st, 4:39  
 * 2019 Devil on the Divide 50K, 2nd, 5:09    
