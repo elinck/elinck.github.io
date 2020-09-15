@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 030120; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 091420; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -21,9 +21,11 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
+**Linck, E.**, Freeman, B.G., Dumbacher, J.P. In Press. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology.* Preprint DOI: [10.1101/589044](https://doi.org/10.1101/589044)
+
 **Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*   
 
-**Linck, E.**, Celi, J.E., Sheldon, K.S. In press. Panmixia across elevation in thermally sensitive Andean dung beetles. *Ecology and Evolution.* Preprint DOI: [10.1101/783233](https://doi.org/10.1101/783233)       
+**Linck, E.**, Celi, J.E., Sheldon, K.S. 2020. Panmixia across elevation in thermally sensitive Andean dung beetles. *Ecology and Evolution* 10(9), 4143-4155.   
 
 **Linck, E.**. 2020. Bird Species: How They Arise, Modify and Vanish. *The Auk* 137, 1-2.   
 
@@ -57,9 +59,9 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv.* DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
 
-**Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2019. Speciation with gene flow across an elevational gradient in New Guinea kingfishers. *bioRxiv.* DOI: [10.1101/589044](https://doi.org/10.1101/589044)    
+## Grants, Awards, & Fellowships  
 
-## Grants & Awards  
+**American Ornithological Society Kessel Fellowship (*declined*).** 2019. $15,000.      
 
 **NSF Postdoctoral Research Fellowship in Biology.** 2019. $138,000.    
 
@@ -87,7 +89,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.
 
-## Teaching Experience  
+## Teaching Experience and Pedagogical Training
 
 *As Teaching Assistant:*  
 
@@ -104,6 +106,10 @@ Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biolog
 *As Workshop Instructor:*  
 
 BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R." 2019. University of Colorado, Boulder.  
+
+*Pedagogical Tools:*  
+
+Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with assortative mating into an interactive Shiny App: https://elinck.shinyapps.io/hzam_shiny/  
 
 ## Honors
 
@@ -123,7 +129,7 @@ BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R.
 
 **National Defense Science and Engineering Graduate Fellow.** 2016 - 2019. US Department of Defense.
 
-**Contributing Writer.** 2016 - present. *The Molecular Ecologist.*
+**Contributing Writer.** 2016 - 2018. *The Molecular Ecologist.*
 
 **Visiting Researcher.** 2016. Department of Ornithology & Mammology, California Academy of Sciences.
 
@@ -167,6 +173,8 @@ tropical mountains? Insights from genomics and New Guinea kingfishers. Universit
 Pacific PaCE-SD Seminar, Suva, Fiji.
 
 ## Contributed Presentations  
+
+**Linck, E.**. 2020. Early Professionals Mini-Talk Symposium. North American Ornithological Congress VII. Virtual.
 
 **Linck, E.**, Celi, J.E., Sheldon, K.S. 2019. Climate as a barrier to dispersal over mountain passes: is gene flow reduced across elevational gradients in tropical Andean beetles? Ecological Society of America Meeting, Louisville, KY.     
 
@@ -296,33 +304,39 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 - Tour guide for UW Introductory Biology field trips to UWBM specimen collections  
 - Regularly helped run the Burke Museum's "Members Night" and "Birds at the Burke" outreach events  
 
-**Departmental Service**  
+**Service**  
 - Organizer for a graduate student seminar on phylogenetics (2015)  
-- Host for prospective graduate students (2015, 2016, 2017, 2018)  
-- Committee member, Graduate-led Action on Diversity and Equity (2018)  
+- Organizer of a remote reading group on Andean ornithology (2020)  
+- Host for prospective graduate students (2015, 2016, 2017, 2018)    
+- Committee member, Graduate-led Action on Diversity and Equity (2018)   
 
 **Contributions to the field**    
-- Contributing writer, *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk* (2), *Systematic Biology* (2), *Molecular Ecology* (4), *Evolution* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity*
-(2), *Genes, Genomes, Genetics* (2), *Proceedings of the Royal Society B* (1); Society of
-Systematic Biology Graduate Student Research Award (2)  
+- Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
+- Peer reviewer, *The Auk* (3), *Systematic Biology* (3), *Molecular Ecology* (6), *Evolution* (2), *Evolution Letters* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (3), *Proceedings of the Royal Society B* (1); *The Wilson Journal of Ornithology* (1); *Journal of Biogeography* (2); *Bulletin of the British Ornithologists' Club* (1); *Ecological Entomology* (1); *Emu* (1); Society of Systematic Biology Graduate Student Research Award (2)  
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
 ## Society Membership
-The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The American Ornithological Society, The Ecological Society of America    
+The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The American Ornithological Society
 
 ## Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  
 
 ## Collaborators
-**CJ Battey** (U Washington); **E Bridge** (U Oklahoma); **R Bryson** (U Washington); **R Cañales** (UA Nuevo León); **J Celi** (U Regional Amazónica Ikiam); **J Duckles** (U Oklahoma); **J Dumbacher** (California Academy of Sciences); **P van Els** (U Gronigen); **K Epperly** (U Washington); **BG Freeman** (U British Columbia); **C French** (U Washington); **E Fricke** (U Iowa); **E Funk** (CU Boulder); **HF Greeney** (Yanayacu Biological Station); **Z Hanna** (UC Berkeley); **HC Huber** (U Washington); **J McCormack** (Occidental College); **A Navarro-Siguenza** (UNAM); **H Rogers** (U Iowa); **S Rohwer** (U Washington); **S Schaack** (Reed College); **A Sellas** (California Academy of Sciences); **G Semenov** (CU Boulder);  **K Sheldon** (U Tennessee); **D Slager** (U Washington); **G Spellman** (Denver Museum of Nature and Science); **PW Sykes, Jr.** (USGS Patuxent Wildlife Research Center); **S Taylor** (CU Boulder)  
+**CJ Battey** (U Washington); **E Bridge** (U Oklahoma); **R Bryson** (U Washington); **R Cañales** (UA Nuevo León); **D Cadena** (U Andes); **J Celi** (U Regional Amazónica Ikiam); **J Duckles** (U Oklahoma); **J Dumbacher** (California Academy of Sciences); **P van Els** (U Gronigen); **K Epperly** (U Washington); **BG Freeman** (U British Columbia); **C French** (U Washington); **E Fricke** (U Iowa); **E Funk** (CU Boulder); **HF Greeney** (Yanayacu Biological Station); **Z Hanna** (UC Berkeley); **HC Huber** (U Washington); **J McCormack** (Occidental College); **A Navarro-Siguenza** (UNAM); **J Parra** (UN Colombia); **H Rogers** (U Iowa); **S Rohwer** (U Washington); **S Schaack** (Reed College); **A Sellas** (California Academy of Sciences); **G Semenov** (CU Boulder); **K Sheldon** (U Tennessee); **D Slager** (U Washington); **G Spellman** (Denver Museum of Nature and Science); **PW Sykes, Jr.** (USGS Patuxent Wildlife Research Center); **S Taylor** (CU Boulder); **I Quintero** (IBENS)
 
 ## References
 
+**Christopher C. Witt**    
+Curator of Birds & Director, Museum of Southwestern Biology  
+Professor, University of New Mexico Department of Biology   
+CERIA 228    
+219 Yale Blvd NE    
+Albuquerque, NM 87131   
+cwitt@unm.edu   
+
 **Kimberly S. Sheldon**    
-Assistant Professor  
-Department of Ecology & Evolutionary Biology  
+Assistant Professor, University of Tennessee, Knoxville Department of Ecology & Evolutionary Biology  
 569 Dabney Hall  
 1416 Circle Dr.  
 Knoxville, TN 37996  

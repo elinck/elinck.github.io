@@ -1,9 +1,6 @@
 ---
 layout: default
---- 
-
-![](/images/16.jpg)
-*Huli Wigman, Hela Province, Papua New Guinea*
+---
 
 ![](/images/3.jpg)
 *Hook-billed kingfisher* (Melidora macrorrhina), *Sandaun Province, Papua New Guinea*
@@ -19,9 +16,6 @@ layout: default
 
 ![](/images/1.jpg)
 *Preparing specimens in Yellow Pine, Idaho, USA*
-
-![](/images/27.jpg)
-*Huli Wigman, Hela Province, Papua New Guinea*
 
 ![](/images/2.jpg)
 *Solomon Islands leaf frog* (Cornufer guentheri), *Kolombangara, Solomon Islands*
@@ -82,6 +76,3 @@ layout: default
 
 ![](/images/13.jpg)
 *Autumn in Gothic, Colorado, USA*
-
-
-

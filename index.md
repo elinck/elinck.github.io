@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m an evolutionary biologist and ecologist interested in the processes that generate and maintain biological diversity, particularly in mountains. Now a National Science Foundation Postdoctoral Research Fellow in Biology in the [Witt Lab](https://www.unmornithology.org/) at the University of New Mexico, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
+I’m an evolutionary biologist and ecologist interested in how landscapes structure biological diversity from gene to genera. Now a National Science Foundation Postdoctoral Research Fellow in Biology in the [Witt Lab](https://www.unmornithology.org/) at the University of New Mexico, I received my Ph.D. from the University of Washington, working in the [Klicka Lab](https://klickalab.com/).
 
 ![](/images/bismark.jpg)
 
