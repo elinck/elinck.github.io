@@ -6,7 +6,7 @@ I am a broadly trained, integrative evolutionary biologist and ecologist interes
 
 Most of my research is focused on montane faunas—primarily birds, but sometimes insects, too. Because mountains feature dramatic environmental gradients that exert strong selection pressures in geographically complex landscapes, they open up possibilities for teasing apart the relative role of neutral and adaptive processes in the origin of lineages and assembly of communities. They are also globally significant biodiversity hotspots, and increasingly threatened by climate change and anthropogenic disturbance.
 
-My work is data-intensive and tools from population genomics, phylogenetics, physiology, and macroecology. I am passionate about natural history (and natural history collections); the landscapes of the Western US, the Andes, and Melanesia; and understanding the role of biodiversity and conservation science in society.
+My work is data-intensive and uses tools from population genomics, phylogenetics, physiology, and macroecology. I am passionate about natural history (and natural history collections); the landscapes of the Western US, the Andes, and Melanesia; and understanding the role of biodiversity and conservation science in society.
 
 ![](/images/conceptual_figure-01.png)
 
