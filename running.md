@@ -2,12 +2,13 @@
 layout: default
 ---
 
-I've been a trail runner since my first season of high school cross country, and raced competitively for almost a decade. I recently began working as a coach to a handful of athletes interested in maximizing their potential—if you're interested, [please get in touch](mailto:ethanblinck@gmail.com)!
+I've been a trail runner since my first season of high school cross country, and have raced competitively for almost a decade. I also occasionally work with endurance athletes as a coach—if you're interested, [please get in touch](mailto:ethanblinck@gmail.com)!
 
 ![racing](/images/racing2.jpg)
 
 ### Career highlights:
 
+* 2020 Watermelon Loop Fastest Known Time, 3:23  
 * 2019 Mt. Taylor 50K, 1st, 4:39  
 * 2019 Devil on the Divide 50K, 2nd, 5:09    
 * 2019 American Ornithological Society Ostrich Scramble 5K, 1st, 16:49   
