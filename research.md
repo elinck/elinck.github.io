@@ -8,7 +8,7 @@ Most of my research is focused on montane faunas—primarily birds, but sometime
 
 My work is data-intensive and uses tools from population genomics, phylogenetics, physiology, and macroecology. I am passionate about natural history (and natural history collections); the landscapes of the Western US, the Andes, and Melanesia; and understanding the role of biodiversity and conservation science in society.
 
-![](/images/conceptual_figure-01.png)
+![](/images/conceptual_figure.png)
 
 ## Climate, mountains, and speciation
 
