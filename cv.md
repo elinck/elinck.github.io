@@ -21,9 +21,9 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-**Linck, E.**, Freeman, B.G., Dumbacher, J.P. In press. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology.* Preprint DOI: [10.1101/589044](https://doi.org/10.1101/589044)
+**Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2020. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology* 33(11), 1643-1652.
 
-**Linck, E.**, Fricke, E., Rogers, H. In press. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology.*   
+**Linck, E.**, Fricke, E., Rogers, H. 2020. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology* 132(1), 22-28.     
 
 **Linck, E.**, Celi, J.E., Sheldon, K.S. 2020. Panmixia across elevation in thermally sensitive Andean dung beetles. *Ecology and Evolution* 10(9), 4143-4155.   
 
@@ -55,6 +55,17 @@ griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121.
 **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7.  
 
+## In Review
+
+Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. *In review*. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography*.
+
+Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khhaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A.
+*In review*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Ecology & Evolution*.
+
+Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T.,
+Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In review*. Barriers and gradients: the formation of
+montane diversity. *Nature Ecology & Evolution*.
+
 ## Preprints
 
 **Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv.* DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
@@ -85,9 +96,14 @@ SHP. *Muruk* 10(1), 4-7.
 
 **Reed College BURP Fund.** 2012. $1,500.
 
-**Reed College Arch and Fran Diack Student Field Research Fund.** 2010. $4,200.
+**Reed College Arch and Fran Diack Student Field Research Fund.** 2010. $4,200.  
 
-**Explorers Club Youth Activity Fund.** 2009. $1,500.
+**Explorers Club Youth Activity Fund.** 2009. $1,500.  
+
+## Pending Grant Applications
+
+Global Phenotypic Flexibility in House Sparrows: Are Climate and Metabolic Flexibility Correlated?
+Co-PI with D. Swanson and B. Wone. Full proposal submitted to **NSF Division of Integrative Organismal Systems**.  
 
 ## Teaching Experience
 
@@ -121,7 +137,7 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 
 ## Appointments
 
-**National Science Foundation Postdoctoral Research Fellow in Biology.** 2020. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
+**NSF Postdoctoral Research Fellow in Biology.** 2020. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
 
 **Research Affiliate.** 2019-present. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
 
@@ -152,6 +168,8 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 **NSF REU Student.** 2011. Department of Biology, University of Washington.
 
 ## Invited Presentations
+
+**Linck, E.** 2020. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natual Science Seminar Series, Baton Rouge, LA.   
 
 **Linck, E.** 2019. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natual Science Seminar Series, Baton Rouge, LA.   
 
@@ -212,7 +230,8 @@ Second International Workshop on the Interoceanic Canal through Nicaragua, Manag
 Ecology, UW Biology, Seattle, WA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium, San Francisco, CA.  
+griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium,
+San Francisco, CA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops
 griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.  
@@ -311,7 +330,7 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk* (3), *Systematic Biology* (3), *Molecular Ecology* (6), *Evolution* (2), *Evolution Letters* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (3), *Proceedings of the Royal Society B* (1); *The Wilson Journal of Ornithology* (1); *Journal of Biogeography* (2); *Bulletin of the British Ornithologists' Club* (1); *Ecological Entomology* (1); *Emu* (1); Society of Systematic Biology Graduate Student Research Award (2)  
+- Peer reviewer, *The Auk* (3), *Systematic Biology* (4), *Molecular Ecology* (6), *Evolution* (2), *Evolution Letters* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (3), *Proceedings of the Royal Society B* (1); *The Wilson Journal of Ornithology* (1); *Journal of Biogeography* (2); *Bulletin of the British Ornithologists' Club* (1); *Ecological Entomology* (1); *Emu* (1); *Ecology and Evolution* (1); Society of Systematic Biology Graduate Student Research Award (2)  
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
