@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 111020; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 112320; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -20,6 +20,8 @@ Ph.D. 2019. **University of Washington,** Seattle, WA
 B.A. 2013. **Reed College,** Portland, OR  
 
 ## Publications  
+
+Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. *In press. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography*.  
 
 **Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2020. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology* 33(11), 1643-1652.
 
@@ -56,8 +58,6 @@ griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121.
 SHP. *Muruk* 10(1), 4-7.  
 
 ## In Review
-
-Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. *In review*. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography*.
 
 Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khhaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A.
 *In review*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Ecology & Evolution*.
