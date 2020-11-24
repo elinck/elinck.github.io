@@ -59,7 +59,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## In Review
 
-Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khhaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A.
+Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A.
 *In review*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Ecology & Evolution*.
 
 Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T.,
