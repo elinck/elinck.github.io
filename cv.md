@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*
 
-(*updated 112320; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 012821; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -21,7 +21,9 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. *In press.* Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography*.  
+Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A. *In press*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications*.   
+
+Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. *In press*. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography*.   
 
 **Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2020. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology* 33(11), 1643-1652.
 
@@ -59,12 +61,9 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## In Review
 
-Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A.
-*In review*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Ecology & Evolution*.
-
 Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T.,
 Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In review*. Barriers and gradients: the formation of
-montane diversity. *Nature Ecology & Evolution*.
+montane diversity. *Proceedings of the National Academy of Sciences*.   
 
 ## Preprints
 
@@ -248,6 +247,8 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 ## Selected Popular Writing  
 
+[Cataclysms to Desolate the World](https://www.hypocritereader.com/96/cataclysms-desolate). 2021. *Hypocrite Reader* 96.   
+
 [Throwing wolves to the vote](https://www.hcn.org/issues/52.3/south-wolves-colorado-throws-wolves-to-the-vote). 2020. *High Country News.*  
 
 [Your stoke won't save us](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us/). 2018. *High Country News.*  
@@ -262,21 +263,7 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 [How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*  
 
-[British Scientists Wanted No Exit From the EU.](http://www.thestranger.com/slog/2016/06/24/24257994/british-scientists-wanted-no-exit-from-the-eu) 2016. *The Stranger.*  
-
-[Science News (weekly column).](http://www.thestranger.com/authors/23759410/ethan-linck) 2016. *The Stranger.*
-
-[Wilderness and "A Third-World Critique" in the Era of Climate Change.](http://www.hypocritereader.com/69/title) 2016. *The Hypocrite Reader* 69.
-
-[Birds, Whiskey, and the Modern Evolutionary Synthesis: Ernst Mayr in the Solomon Islands.](http://www.hypocritereader.com/59/mayr) 2015. *The Hypocrite Reader* 59.
-
-[A Trail Runner Defends His Right to Public Lands.](http://www.hcn.org/articles/anger-against-trail-runners-public-lands-Mt-Rainier-Wonderland-Grand-Canyon-response) 2015. *High Country News.*
-
-[El Oso Plateado.](http://hypocritereader.com/39/el-oso-plateado) 2014. *The Hypocrite Reader* 39.
-
-[The Enduring Appeal of Counting Birds.](http://hypocritereader.com/33/counting-birds) 2013. *The Hypocrite Reader* 33.
-
-[On Singing.](http://hypocritereader.com/31/on-singing) 2013. *The Hypocrite Reader* 31.
+[El Oso Plateado.](http://hypocritereader.com/39/el-oso-plateado) 2014. *Hypocrite Reader* 39.
 
 ## Field Experience   
 
