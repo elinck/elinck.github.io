@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# *Curriculum Vitae*
+# *Curriculum Vitae*  
 
-(*updated 012821; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 081021; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -21,51 +21,48 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A. *In press*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications*.   
+15\) Linck, E., Freeman, B.G., Cadena, C.D., Ghalambor, C.K. *Accepted.* Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters*.
 
-Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. *In press*. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography*.   
+14\) Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A. 2021. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications* 12, 1019.   
 
-**Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2020. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology* 33(11), 1643-1652.
+13\) Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. 2021. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography* 30(4), 784-794.     
 
-**Linck, E.**, Fricke, E., Rogers, H. 2020. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology* 132(1), 22-28.     
+12\)  **Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2020. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology* 33(11), 1643-1652.  
 
-**Linck, E.**, Celi, J.E., Sheldon, K.S. 2020. Panmixia across elevation in thermally sensitive Andean dung beetles. *Ecology and Evolution* 10(9), 4143-4155.   
+11\) **Linck, E.**, Fricke, E., Rogers, H. 2020. Varied abundance and functional diversity in the surviving bird communities of the Mariana Islands. *The Wilson Journal of Ornithology* 132(1), 22-28.      
 
-**Linck, E.**. 2020. Bird Species: How They Arise, Modify and Vanish. *The Auk* 137, 1-2.   
+10\) **Linck, E.**, Celi, J.E., Sheldon, K.S. 2020. Panmixia across elevation in thermally sensitive Andean dung beetles. *Ecology and Evolution* 10(9), 4143-4155.   
 
-**Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2019. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology* 68(6), 956-966.  
+9\) **Linck, E.**. 2020. Bird Species: How They Arise, Modify and Vanish. *The Auk* 137, 1-2.   
 
-**Linck, E.**, Battey, C.J. 2019. Minor allele frequency thresholds strongly affect population
-structure inference with genomic datasets. *Molecular Ecology Resources* 19(3), 639-647.    
+8\) **Linck, E.**, Epperly, K., van Els, P., Spellman, G.M., Bryson Jr., RW., Canales-del-Castillo, R., McCormack, J.E., Klicka, J. 2019. Dense geographic and genomic sampling reveals paraphyly and a cryptic lineage in a classic sibling species complex. *Systematic Biology* 68(6), 956-966.  
 
-**Linck, E.**, Huber, H.C., Greeney, H.F., Sheldon, K.S. 2019. Nesting biology of the Blue-and-white Swallow
+7\) **Linck, E.**, Battey, C.J. 2019. Minor allele frequency thresholds strongly affect population structure inference with genomic datasets. *Molecular Ecology Resources* 19(3), 639-647.     
+
+6\) **Linck, E.**, Huber, H.C., Greeney, H.F., Sheldon, K.S. 2019. Nesting biology of the Blue-and-white Swallow
 (*Pygochelidon cyanoleuca*) in northeastern Ecuador. *Ornitología Neotropical* 30, 5-10.  
 
-Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018.
+5\) Battey, C.J., **Linck, E.**, Epperly, K.L., French, C., Slager, D., Klicka, J. 2018.
 A Migratory Divide In The Painted Bunting (*Passerina ciris*). *The American Naturalist*
 191(2), 259-268.  
 
-**Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization
-capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8).  
+4\) **Linck, E.**, Hanna, Zachary R., Sellas, A., Dumbacher, J.P. 2017. Evaluating hybridization capture with RAD probes as a tool for museum genomics with historical bird specimens. *Ecology and Evolution* 7(8).  
 
-**Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
-migration patterns in Painted Buntings using the world's bird collections as
+3\) **Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing migration patterns in Painted Buntings using the world's bird collections as
 an aggregated resource. *PeerJ* 4:e1871.   
 
-**Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread
-"supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops
-griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121.   
+2\) **Linck, E.**, Schaack, S., Dumbacher, J. 2015. Genetic differentiation within a widespread "supertramp" taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus*). *Molecular Phylogenetics and Evolution* 94(A), 113-121.   
 
-**Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
+1\) **Linck, E.**. 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7.  
 
 ## In Review
 
-Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T.,
-Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In review*. Barriers and gradients: the formation of
-montane diversity. *Proceedings of the National Academy of Sciences*.   
+Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. *In revision*. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.
 
-## Preprints
+Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In revision*. Barriers and gradients: the formation of montane diversity. *Nature Communications*.
+
+## Preprints  
 
 **Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv.* DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
 
@@ -99,10 +96,9 @@ montane diversity. *Proceedings of the National Academy of Sciences*.
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.  
 
-## Pending Grant Applications
+## Grantwriting Experience
 
-Global Phenotypic Flexibility in House Sparrows: Are Climate and Metabolic Flexibility Correlated?
-Co-PI with D. Swanson and B. Wone. Full proposal submitted to **NSF Division of Integrative Organismal Systems**.  
+Global Phenotypic Flexibility in House Sparrows: Are Climate and Metabolic Flexibility Correlated? Co-PI with D. Swanson and B. Wone. Full proposal submitted to **NSF Division of Integrative Organismal Systems** Not funded.
 
 ## Teaching Experience
 
@@ -168,7 +164,7 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 
 ## Invited Presentations
 
-**Linck, E.** 2020. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natual Science Seminar Series, Baton Rouge, LA.   
+**Linck, E.** 2020. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natural Science Seminar Series, Baton Rouge, LA.   
 
 **Linck, E.** 2019. Niche conservatism, speciation, and range limits on tropical mountainsides. Louisiana State University Museum of Natual Science Seminar Series, Baton Rouge, LA.   
 
@@ -217,8 +213,7 @@ A Migratory Divide In The Painted Bunting (*Passerina ciris*). (Presenting autho
 
 **Linck, E.** 2017. Phenotype, species limits, and adaptation in a New Guinea kingfisher. Graduate Student Symposium, UW Biology, Seattle, WA.  
 
-**Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing
-migratory behavior in Painted Buntings with specimen collections and remote sensing data. Rocky Mountain Biology Laboratory Graduate Student Talks, Gothic, CO.
+**Linck, E.**, Bridge, E.S., Duckles, J., Navarro-Sigenza, A.G., Rohwer, S. 2016. Assessing migratory behavior in Painted Buntings with specimen collections and remote sensing data. Rocky Mountain Biology Laboratory Graduate Student Talks, Gothic, CO.
 
 **Linck, E.**, Klicka, J., Zarza, E., Bryson Jr., R., McCormack, J. 2016. Phylogenomic phylogeography of the Rufous-capped Brush Finch. Graduate Student Symposium, UW Biology, Seattle, WA.
 
@@ -266,6 +261,8 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 [El Oso Plateado.](http://hypocritereader.com/39/el-oso-plateado) 2014. *Hypocrite Reader* 39.
 
 ## Field Experience   
+
+*New Mexico, USA* 2020. Point count surveys breeding bird elevational ranges as part of the Mountain Bird Network.  
 
 *Napo Province, Ecuador* 2020. Collecting climate data for postdoctoral research with K. Sheldon.  
 
@@ -317,7 +314,7 @@ White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research
 
 **Contributions to the field**    
 - Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk* (3), *Systematic Biology* (4), *Molecular Ecology* (6), *Evolution* (2), *Evolution Letters* (1), *The American Naturalist* (1), *Molecular Ecology Resources* (1), *Molecular Phylogenetics and Evolution* (2), *PeerJ* (1), *Axios Review* (1), *Ecological Applications* (1), *PLoS ONE* (1), *Conservation Genetics* (1), *Ecosphere* (2), *Heredity* (2), *Genes, Genomes, Genetics* (3), *Proceedings of the Royal Society B* (1); *The Wilson Journal of Ornithology* (1); *Journal of Biogeography* (2); *Bulletin of the British Ornithologists' Club* (1); *Ecological Entomology* (1); *Emu* (1); *Ecology and Evolution* (1); Society of Systematic Biology Graduate Student Research Award (2)  
+- Peer reviewer, *The Auk*, *Systematic Biology*, *Molecular Ecology*, *Evolution*, *Evolution Letters*, *The American Naturalist*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics*, *Ecosphere*, *Heredity*, *Genes, Genomes, Genetics*,  *Proceedings of the Royal Society B*, *The Wilson Journal of Ornithology*, *Journal of Biogeography*, *Bulletin of the British Ornithologists' Club*, *Ecological Entomology*, *Emu*, *Ecology and Evolution*, *Journal of Carribean Ornithology*, *Biology Letters*, *Revista de Biología Tropical*, Society of Systematic Biology Graduate Student Research Award
 - Scripts publicly available on GitHub (http://github.com/elinck)  
 - Sequence data publicly available on GenBank / Dryad  
 
@@ -343,7 +340,7 @@ cwitt@unm.edu
 **Kimberly S. Sheldon**    
 Assistant Professor, University of Tennessee, Knoxville Department of Ecology & Evolutionary Biology  
 569 Dabney Hall  
-1416 Circle Dr.  
+1416 Circle Drive  
 Knoxville, TN 37996  
 kimberlyssheldon@gmail.com  
 

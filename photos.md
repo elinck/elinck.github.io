@@ -50,9 +50,6 @@ layout: default
 ![](/images/15.jpg)
 *Dungeness Spit, Washington, USA*
 
-![](/images/17.jpg)
-*Western Province, Solomon Islands*
-
 ![](/images/18.jpg)
 *Common smoky honeyeater* (Melipotes fumigatus), *Mt. Wilhelm, Papua New Guinea*
 
