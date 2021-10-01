@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*  
 
-(*updated 081021; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 093021; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -21,7 +21,7 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-15\) Linck, E., Freeman, B.G., Cadena, C.D., Ghalambor, C.K. *Accepted.* Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters*.
+15\) **Linck, E.**, Freeman, B.G., Cadena, C.D., Ghalambor, C.K. *Accepted.* Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters*.  
 
 14\) Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A. 2021. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications* 12, 1019.   
 
@@ -58,13 +58,13 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## In Review
 
-Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. *In revision*. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.
+**Linck, E.B.**, Williamson, J.L., Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. *In review*. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *eLife.*    
 
-Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In revision*. Barriers and gradients: the formation of montane diversity. *Nature Communications*.
+Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. *In revision*. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.  
 
-## Preprints  
+Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In revision*. Barriers and gradients: the formation of montane diversity. *Nature Communications*.  
 
-**Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv.* DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
+**Linck, E.**, Battey, C.J. *In revision*. On the relative ease of speciation with periodic gene flow. *The American Naturalist.* *bioRxiv* DOI: [10.1101/758664](https://doi.org/10.1101/758664)      
 
 ## Grants, Awards, & Fellowships  
 
@@ -186,6 +186,8 @@ tropical mountains? Insights from genomics and New Guinea kingfishers. Universit
 Pacific PaCE-SD Seminar, Suva, Fiji.
 
 ## Contributed Presentations  
+
+**Linck, E.**. 2021. Respiratory plasticity and elevational range breadth in Andean birds. American Ornithological Society Meeting.   
 
 **Linck, E.**. 2020. Early Professionals Mini-Talk Symposium. North American Ornithological Congress VII. Virtual.
 
