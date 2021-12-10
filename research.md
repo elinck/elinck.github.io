@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm an evolutionary biologist and ecologist. Most of what I work on has something to do with *biogeography*, broadly defined: the study of why species live where they do. I like thinking about species ranges because they link the historical processes of speciation and population divergence with the way organisms interact with their environments today—and have a lot to say about their future on a warming planet.
+I'm an integrative evolutionary biologist and ecologist. Most of what I work on has something to do with *biogeography*, broadly defined: the study of why species live where they do. I like thinking about species ranges because they link the historical processes of speciation and population divergence with the way organisms interact with their environments today—and have a lot to say about their future on a warming planet.
 
 ![](images/conceptual_figure-01.png)
 
