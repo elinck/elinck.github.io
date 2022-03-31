@@ -4,7 +4,7 @@ layout: default
 
 I'm a biologist with interests in population genetics, conservation, and evolutionary ecology. Most of what I work on has something to do with *biogeography*, broadly defined: the study of why species live where they do. I like thinking about species ranges because they link the historical processes of speciation and population divergence with the way organisms interact with their environments today—and have a lot to say about their future on a warming planet.  
 
-![](images/conceptual_figure-01.png)
+![](images/conceptual_figure.png)  
 
 My research involves genomics, natural history museums, field work, physiology, and statistical models. It is data intensive, and I try and emphasize computational reproducibility. Just as important to me as my formal research output is my popular writing about what science does and does not mean for the world we live in, particularly when it comes to the ethics and practice of conservation.  
 
