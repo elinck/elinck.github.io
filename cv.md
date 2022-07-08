@@ -4,12 +4,11 @@ layout: default
 
 # *Curriculum Vitae*  
 
-(*updated 031722; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 070822; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
-Department of Biology & Museum of Southwestern Biology  
-University of New Mexico   
+University of Wyoming Department of Zoology & Physiology
 email: ethanblinck@gmail.com  
 web: https://elinck.org/    
 newsletter: https://ethanlinck.substack.com/  
@@ -22,7 +21,7 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. *In press*. Barriers and gradients: the formation of montane diversity. *Nature Communications*.  
+16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. 2022. Barriers and gradients: the formation of montane diversity. *Nature Communications* 13, 268.  
 
 15\) **Linck, E.**, Freeman, B.G., Cadena, C.D., Ghalambor, C.K. 2021. Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters* 17(10), 20210363.  
 
@@ -63,7 +62,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 Williamson, J.L., **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. *Submitted.* Oxygen availability drives blood-hemoglobin content and the cell number-size tradeoff across the Andean hummingbird radiation. *Nature Ecology and Evolution.*  
 
-**Linck, E.B.**, Williamson, J.L., Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. *In review*. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*    
+**Linck, E.B.**, Williamson, J.L., Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. *In revision*. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*    
 
 Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. *In revision*. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.  
 
@@ -135,7 +134,9 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 
 ## Appointments
 
-**NSF Postdoctoral Research Fellow in Biology.** 2020-present. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
+**NSF Postdoctoral Research Fellow in Biology.** 2020-2022. Department of Zoology & Physiology, UW Museum of Vertebrates, and The Biodiversity Institute, University of Wyoming.
+
+**NSF Postdoctoral Research Fellow in Biology.** 2020-2022. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
 
 **Research Affiliate.** 2019-2020. Taylor Lab, Department Ecology and Evolutionary Biology, University of Colorado, Boulder.  
 
@@ -323,40 +324,5 @@ The Society for the Study of Evolution, The American Society of Naturalists, The
 
 ## Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  
-
-## References  
-
-**Christopher C. Witt**    
-Curator of Birds & Director, Museum of Southwestern Biology  
-Professor, University of New Mexico Department of Biology   
-CERIA 228    
-219 Yale Blvd NE    
-Albuquerque, NM 87131   
-cwitt@unm.edu   
-+1 (505) 918-7199  
-
-**Kimberly S. Sheldon**    
-Assistant Professor, University of Tennessee, Knoxville Department of Ecology & Evolutionary Biology  
-569 Dabney Hall  
-1416 Circle Dr.  
-Knoxville, TN 37996  
-kimberlyssheldon@gmail.com  
-+1 (314) 397-0465  
-
-**John Klicka**  
-Curator of Birds, Burke Museum of Natural History and Culture  
-Don and Betts Baepler Endowed Professor, University of Washington Department of Biology  
-Box 351800 Kincaid Hall  
-Seattle, WA 98195 USA  
-klicka@uw.edu  
-+1 (206) 685-7201  
-
-**John P. Dumbacher**  
-Curator of Ornithology & Mammalogy, California Academy of Sciences  
-Golden Gate Park  
-55 Music Concourse Drive  
-San Francisco, CA 94118 USA  
-jdumbacher@calacademy.org  
-+1 (415) 379-5377  
 
 [back](./)
