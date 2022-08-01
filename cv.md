@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*  
 
-(*updated 070822; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 080122; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -320,7 +320,8 @@ Ecology, UW Biology, Seattle, WA.
 - Sequence data publicly available on GenBank / Dryad  
 
 ## Society Membership
-The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The American Ornithological Society  
+- Elective Member (2022): The American Ornithological Society
+- Member: Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists  
 
 ## Graduate Committee  
 J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  
