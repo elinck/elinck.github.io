@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a biologist with a Ph.D. from the University of Washington. I study why species live where they do and what will happen to them on a warming planet. I'm currently a NSF Postdoctoral Research Fellow in Biology in the [Carling Lab](https://www.unmornithology.org/) at the University of Wyoming, and a Research Affiliate at University of New Mexico's Museum of Southwestern Biology.
+I'm a biologist with a Ph.D. from the University of Washington. I study the forces that shape the distribution of species and genetic variation, mostly in birds. I'm currently a Senior Research Scientist in the [Carling Lab](https://www.unmornithology.org/) at the University of Wyoming, and a Research Affiliate at University of New Mexico's Museum of Southwestern Biology.  
 
 ![](/images/cloudforest.jpg)
 

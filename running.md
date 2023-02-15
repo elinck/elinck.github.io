@@ -2,12 +2,13 @@
 layout: default
 ---
 
-I've been a trail runner since my first season of high school cross country, and have raced competitively for almost a decade. I occasionally work with endurance athletes as a coach in a casual way—if you're interested, [feel free to get in touch](mailto:ethanblinck@gmail.com).
+I've been a trail runner since my first season of high school cross country, and have raced competitively for almost a decade. I occasionally work with endurance athletes as a coach in a casual way—if you're interested, [feel free to get in touch](mailto:ethanblinck@gmail.com).  
 
 ![racing](/images/racing2.jpg)
 
 ### Racing Highlights
 
+* 2023 Big Tesuque Trail Run, 1st, 1:23  
 * 2021 Up and Over 10K, 1st, :54 (course record)
 * 2019 Mt. Taylor 50K, 1st, 4:39  
 * 2019 American Ornithological Society Ostrich Scramble 5K, 1st, 16:49   

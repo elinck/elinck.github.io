@@ -4,11 +4,11 @@ layout: default
 
 # *Curriculum Vitae*  
 
-(*updated 080122; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 0215923; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
-University of Wyoming Department of Zoology & Physiology
+University of Wyoming Department of Zoology & Physiology  
 email: ethanblinck@gmail.com  
 web: https://elinck.org/    
 newsletter: https://ethanlinck.substack.com/  
@@ -21,13 +21,15 @@ B.A. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
+17\) **Linck, E.B.**, Williamson, J.L.\*, Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. In press. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*   
+
 16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. 2022. Barriers and gradients: the formation of montane diversity. *Nature Communications* 13, 268.  
 
 15\) **Linck, E.**, Freeman, B.G., Cadena, C.D., Ghalambor, C.K. 2021. Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters* 17(10), 20210363.  
 
 14\) Semenov, G.A., **Linck, E.**, Enbody, E.D., Harris, R.B., Khaydarov, D.R., Alström, P., Andersson, L., Taylor, S.A. 2021. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications* 12, 1019.   
 
-13\) Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. 2021. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography* 30(4), 784-794.     
+13\) Mamantov, M.A.\*, Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S. 2021. Climate-driven range shifts of montane species vary with elevation. *Global Ecology and Biogeography* 30(4), 784-794.     
 
 12\)  **Linck, E.**, Freeman, B.G., Dumbacher, J.P. 2020. Speciation and gene flow across an elevational gradient in New Guinea kingfishers. *Journal of Evolutionary Biology* 33(11), 1643-1652.  
 
@@ -58,25 +60,74 @@ an aggregated resource. *PeerJ* 4:e1871.
 1\) **Linck, E.** 2010. Notes on birds and logistics from the south side of Mount Giluwe,
 SHP. *Muruk* 10(1), 4-7.  
 
-## In Review
+## Preprints / In Revision
 
-Williamson, J.L., **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. *Submitted.* Oxygen availability drives blood-hemoglobin content and the cell number-size tradeoff across the Andean hummingbird radiation. *Nature Ecology and Evolution.*  
+DeCicco, L.H., Dumbacher, J.P., **Linck, E.B.**, Andersen, M.J., Moyle, R.J. In review. Novel origin of a montane bird species: escaping taxon cycle predictions. *Biology Letters*.  
 
-**Linck, E.B.**, Williamson, J.L., Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. *In revision*. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*    
+Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. In revision. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.  
 
-Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. *In revision*. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.  
+Williamson, J.L.\*, **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. 2021. Oxygen availability drives blood-hemoglobin content and the cell number-size tradeoff across the Andean hummingbird radiation. *bioRxiv*. DOI: [10.1101/2021.09.30.462673](https://doi.org/10.1101/2021.09.30.462673)  
 
-**Linck, E.**, Battey, C.J. *In revision*. On the relative ease of speciation with periodic gene flow. *The American Naturalist.* *bioRxiv* DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
+**Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv*. DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
+
+(\* indicates graduate student mentee coauthor)  
+
+## Teaching Experience
+
+*As Teaching Assistant:*  
+
+Biology 472: Community Ecology. Fall 2015. Department of Biology, University of Washington.   
+
+Biology 452: Vertebrate Biology. Summer 2015. Department of Biology, University of Washington.    
+
+Biology 200: Introductory Biology II. Fall 2014. Department of Biology, University of Washington.   
+
+Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Department of Biology, University of Washington.  
+
+Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biology, Reed College.  
+
+*As Workshop Instructor:*  
+
+BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R." 2019. University of Colorado, Boulder.  
+
+*As Guest Lecturer:*
+
+Biology 472: Community Ecology. Fall 2015. Island Biogeography. Department of Biology, University of Washington.     
+
+*Pedagogical Tools:*  
+
+Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with assortative mating into an interactive Shiny App: https://elinck.shinyapps.io/hzam_shiny/  
+
+*Potential Course Contributions:*
+Evolution, Conservation Genetics, Population Genetics, Phylogenetics, Ornithology, Biogeography, Experimental Design and Biostatistics, Data Science for Biologists, High Altitude Biology, Tropical Biology, Molecular Ecology, Genomics, Science Writing, Scientific Ethics  
+
+## Selected Popular Writing  
+
+[Cataclysms to Desolate the World](https://www.hypocritereader.com/96/cataclysms-desolate). 2021. *Hypocrite Reader* 96.   
+
+[Throwing wolves to the vote](https://www.hcn.org/issues/52.3/south-wolves-colorado-throws-wolves-to-the-vote). 2020. *High Country News.*  
+
+[Your stoke won't save us](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us/). 2018. *High Country News.*  
+
+[Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/#!) 2018. *Los Angeles Review of Books.*  
+
+[Bidding a Woeful Farewell to NSF's Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*  
+
+[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution). 2017. *The Stranger.*  
+
+[Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*  
+
+[How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*  
+
+[El Oso Plateado.](http://hypocritereader.com/39/el-oso-plateado) 2014. *Hypocrite Reader* 39.
 
 ## Grants, Awards, & Fellowships  
 
-**American Ornithological Society Kessel Fellowship (*declined*).** 2019. $15,000.      
+**American Ornithological Society Kessel Fellowship (declined).** 2019. $15,000.  
 
-**NSF Postdoctoral Research Fellowship in Biology.** 2019. $138,000.    
+**NSF Postdoctoral Research Fellowship in Biology.** 2020-2023. $207,000.    
 
 **John S. Edwards Endowed Fund in Biology.** 2018. $1,500.  
-
-**John S. Edwards Endowed Fund in Biology.** 2018. $1,500.   
 
 **Hoag Endowed Graduate Fellowship.** 2018. $1,500.   
 
@@ -98,33 +149,9 @@ Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., 
 
 **Explorers Club Youth Activity Fund.** 2009. $1,500.  
 
-## Other Grantwriting Experience
-
-Global Phenotypic Flexibility in House Sparrows: Are Climate and Metabolic Flexibility Correlated? Co-PI with D. Swanson and B. Wone. Full proposal submitted to **NSF Division of Integrative Organismal Systems** Not funded.
-
-## Teaching Experience
-
-*As Teaching Assistant:*  
-
-Biology 472: Community Ecology. Fall 2015. Department of Biology, University of Washington.  
-
-Biology 452: Vertebrate Biology. Summer 2015. Department of Biology, University of Washington.  
-
-Biology 200: Introductory Biology II. Fall 2014. Department of Biology, University of Washington.   
-
-Biology 180: Introductory Biology I. Winter 2015, Spring 2015, Winter 2016. Department of Biology, University of Washington.  
-
-Biology 366: Population Ecology and Evolution. Spring 2013. Department of Biology, Reed College.
-
-*As Workshop Instructor:*  
-
-BioFrontiers QED Supergroup: "Basic population genomic analysis in Python and R." 2019. University of Colorado, Boulder.  
-
-*Pedagogical Tools:*  
-
-Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with assortative mating into an interactive Shiny App: https://elinck.shinyapps.io/hzam_shiny/  
-
 ## Honors
+
+**Elective Member, American Ornithological Society.** 2022.  
 
 **NSF GRFP Honorable Mention.** 2016.
 
@@ -132,9 +159,11 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 
 **Commendation for Excellence, Reed College Junior Qualifying Exam.** 2011.
 
-## Appointments
+## Appointments  
 
-**NSF Postdoctoral Research Fellow in Biology.** 2020-2022. Department of Zoology & Physiology, UW Museum of Vertebrates, and The Biodiversity Institute, University of Wyoming.
+**Senior Research Scientist.** 2022-2023. Department of Zoology & Physiology, UW Museum of Vertebrates, and The Biodiversity Institute, University of Wyoming.  
+
+**NSF Postdoctoral Research Fellow in Biology.** 2022-2023. Department of Zoology & Physiology, UW Museum of Vertebrates, and The Biodiversity Institute, University of Wyoming.  
 
 **NSF Postdoctoral Research Fellow in Biology.** 2020-2022. Department of Biology & Museum of Southwestern Biology, University of New Mexico.  
 
@@ -164,9 +193,37 @@ Translated Darren Irwin's R program `HZAM` for simulating hybrid zones with asso
 
 **Research Assistant.** 2012. Department of Biology, University of Utah.
 
-**NSF REU Student.** 2011. Department of Biology, University of Washington.
+**NSF REU Student.** 2011. Department of Biology, University of Washington.  
+
+## Students Mentored
+
+**Graduate Students:**  
+
+- Jessie Williamson (University of New Mexico, 2020-2022):  
+*data analysis, grant writing, fellowship applications, public speaking, manuscript writing and publication*   
+
+- Margaret Mamantov (University of Tennessee, Knoxville, 2019-2020):  
+*data analysis, manuscript writing and publication*    
+
+- Morgan Fleming (University of Tennessee, Knoxville, 2019-2020):  
+*fieldwork, fellowship applications*   
+
+- Clare Winfrey (University of Tennessee, Knoxville, 2019-2020):  
+*fieldwork, public speaking*  
+
+**Undergraduates:**  
+
+- Sabrina Aeluro (University of Washington, 2017-2019):  
+*molecular lab work, scientific specimen preparation, grant writing, fellowship applications*   
+
+- Michael Tofflemire (University of Washington, 2018):  
+*fieldwork, molecular lab work*   
 
 ## Invited Presentations
+
+**Linck, E.** 2022. Thinking about glacial cycles and speciation with periodic gene flow. USFS Rocky Mountain Research Station 'Agora' Meeting, Missoula, MT.
+
+**Linck, E.** 2022. Blood oxygen-carrying capacity and elevational range breadth in Andean birds. University of Wyoming Zoology & Physiology Seminar Series, Laramie, WY.   
 
 **Linck, E.** 2022. Biodiversity, culture, and conservation in New Guinea. Job Talk, Adams State University, Alamosa, CO.  
 
@@ -193,7 +250,7 @@ Pacific PaCE-SD Seminar, Suva, Fiji.
 
 ## Contributed Presentations  
 
-**Linck, E.**. 2021. Respiratory plasticity and elevational range breadth in Andean birds. American Ornithological Society Meeting.   
+**Linck, E.**. 2021. Respiratory plasticity and elevational range breadth in Andean birds. American Ornithological Society Meeting. Virtual.  
 
 **Linck, E.**. 2020. Early Professionals Mini-Talk Symposium. North American Ornithological Congress VII. Virtual.
 
@@ -226,40 +283,11 @@ A Migratory Divide In The Painted Bunting (*Passerina ciris*). (Presenting autho
 Urquhart, G.R., Maes, J.M., **Linck, E.** 2015. Critical Uncertainties and Gaps in the Environmental and Social-Impact Assessment of the Proposed Interoceanic Canal through Nicaragua: Terrestrial Biodiversity.
 Second International Workshop on the Interoceanic Canal through Nicaragua, Managua, Nicaragua. (Panel presentation.)
 
-**Linck, E.** 2015. Guest Lecture: Island Biogeography. Biology 472: Community
-Ecology, UW Biology, Seattle, WA.  
-
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) California Academy of Sciences Summer Systematics Institute Symposium, San Francisco, CA.  
 
 **Linck, E.** 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) Oral Thesis Defense, Reed College, Portland, OR.  
 
-**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research (STARs) Seminar Series, Reed College, Portland, OR.  
-
-## Public Presentations  
-
-**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Trilogy Bird Club, Redmond, WA.  
-
-**Linck, E.** 2017. Natural history museums, DNA, and avian evolution. Eastside Audubon Society, Kirkland, WA.  
-
-## Selected Popular Writing  
-
-[Cataclysms to Desolate the World](https://www.hypocritereader.com/96/cataclysms-desolate). 2021. *Hypocrite Reader* 96.   
-
-[Throwing wolves to the vote](https://www.hcn.org/issues/52.3/south-wolves-colorado-throws-wolves-to-the-vote). 2020. *High Country News.*  
-
-[Your stoke won't save us](https://www.hcn.org/issues/50.8/recreation-your-stoke-wont-save-us/). 2018. *High Country News.*  
-
-[Darwinian Sexual Selection and the Politics of Beauty](https://lareviewofbooks.org/article/darwinian-sexual-selection-and-the-politics-of-beauty/#!) 2018. *Los Angeles Review of Books.*  
-
-[Bidding a Woeful Farewell to NSF's Doctoral Dissertation Improvement Grant (DDIG) Program](https://undark.org/2017/06/08/doctoral-dissertation-improvement-grant-ddig/) 2017. *Undark Magazine.*  
-
-[Food Evolution (Review)](http://www.thestranger.com/movies/25117230/food-evolution). 2017. *The Stranger.*  
-
-[Keep it Public.](https://www.jacobinmag.com/2017/04/jason-chaffetz-national-parks-bundy-land-management/) 2017. *Jacobin Magazine.*  
-
-[How Trump's War on Science Might Hurt the University of Washington.](http://www.thestranger.com/slog/2017/01/27/24829608/how-trumps-war-on-science-might-hurt-the-university-of-washington) 2017. *The Stranger.*  
-
-[El Oso Plateado.](http://hypocritereader.com/39/el-oso-plateado) 2014. *Hypocrite Reader* 39.
+**Linck, E.**, Schaack, S., Dumbacher, J. 2013. Molecular Phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus.*) Students Talking About thesis Research (STARs) Seminar Series, Reed College, Portland, OR.   
 
 ## Field Experience   
 
@@ -299,31 +327,43 @@ Ecology, UW Biology, Seattle, WA.
 
 *Gulf Province, Papua New Guinea.* 2008. GIS mapping of clan boundaries, Crater Mountain Wildlife Management Area.
 
-## Outreach & Service
+## Outreach & Service  
 
  **Natural History Museum Collections**  
-- Periodic preparation of scientific bird specimens for UWBM collections    
-- Annual participation in UWBM collecting expeditions  
+
+- Periodic preparation of scientific bird specimens for CAS, UWBM, and MSB collections    
+
+- Annual participation in UWBM and MSB collecting expeditions  
+
 - Tour guide for UW Introductory Biology field trips to UWBM specimen collections  
+
 - Regularly helped run the Burke Museum's "Members Night" and "Birds at the Burke" outreach events  
 
+- Contribute to MSB outreach events
+
 **Service**  
+
 - Organizer for a graduate student seminar on phylogenetics (2015)  
+
 - Organizer of a remote reading group on Andean ornithology (2020)  
+
 - Host for prospective graduate students (2015, 2016, 2017, 2018)    
+
 - Committee member, Graduate-led Action on Diversity and Equity (2018)   
 
 **Contributions to the field**    
-- Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)  
-- Peer reviewer, *The Auk*, *Systematic Biology*, *Molecular Ecology*, *Evolution*, *Evolution Letters*, *The American Naturalist*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Conservation Genetics*, *Ecosphere*, *Heredity*, *Genes, Genomes, Genetics*,  *Proceedings of the Royal Society B*, *The Wilson Journal of Ornithology*, *Journal of Biogeography*, *Bulletin of the British Ornithologists' Club*, *Ecological Entomology*, *Emu*, *Ecology and Evolution*, *Journal of Caribbean Ornithology*, *Biology Letters*, *Revista de Biología Tropical*, *Biotropica*, Society of Systematic Biology Graduate Student Research Award  
+
+- Multiple articles for the *The Molecular Ecologist*, a field-specific news, literature and methods tutorial website (http://www.molecularecologist.com/)    
+
 - Scripts publicly available on GitHub (http://github.com/elinck)  
+
 - Sequence data publicly available on GenBank / Dryad  
 
-## Society Membership
-- Elective Member (2022): The American Ornithological Society
-- Member: Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists  
+- Proposal reviewer for Society of Systematic Biology Graduate Student Research Award, National Science Foundation Division of Environmental Biology  
 
-## Graduate Committee  
-J. Klicka; J. Hille Ris Lambers; R. Olmstead; L. Hauser  
+- Peer reviewer for *PNAS*, *Conservation Genetics*, *The Auk*, *Systematic Biology*, *Molecular Ecology*, *Evolution*, *Evolution Letters*, *The American Naturalist*, *Molecular Ecology Resources*, *Molecular Phylogenetics and Evolution*, *PeerJ*, *Axios Review*, *Ecological Applications*, *PLoS ONE*, *Ecosphere*, *Heredity*, *Genes, Genomes, Genetics*, *Proceedings of the Royal Society B*, *The Wilson Journal of Ornithology*, *Journal of Biogeography*, *Bulletin of the British Ornithologists' Club*, *Ecological Entomology*, *Emu*, *Ecology and Evolution*, *Journal of Caribbean Ornithology*, *Biology Letters*, *Revista de Biología Tropical*, *Biotropica*, *Journal of Thermal Biology*  
+
+## Society Membership
+The American Ornithological Society, The Society for the Study of Evolution, The American Society of Naturalists, The Society of Systematic Biologists, The Society for Conservation Biology  
 
 [back](./)
