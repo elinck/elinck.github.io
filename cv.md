@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*  
 
-(*updated 0215923; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 040523; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
