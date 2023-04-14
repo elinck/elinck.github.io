@@ -4,7 +4,7 @@ layout: default
 
 # *Curriculum Vitae*  
 
-(*updated 040523; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
+(*updated 041423; [PDF version here](https://github.com/elinck/elinck_CV/blob/master/elinck_CV.pdf); [nonacademic resume here](https://github.com/elinck/elinck_CV/blob/master/elinck_resume.pdf); see also my [Google Scholar profile](https://scholar.google.com/citations?user=9jNmRcsAAAAJ&hl=en)*)  
 
 ## Ethan Linck   
 NSF Postdoctoral Research Fellow in Biology  
@@ -15,13 +15,15 @@ newsletter: https://ethanlinck.substack.com/
 
 ## Education
 
-Ph.D. 2019. **University of Washington,** Seattle, WA  
+Ph.D., Biology. 2019. **University of Washington,** Seattle, WA  
 
-B.A. 2013. **Reed College,** Portland, OR  
+B.A., Biology. 2013. **Reed College,** Portland, OR  
 
 ## Publications  
 
-17\) **Linck, E.B.**, Williamson, J.L.\*, Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. In press. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*   
+18) Williamson, J.L.\*, **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. Accepted. Hummingbird blood traits track oxygen availability across space and time. *Ecology Letters.*  
+
+17\) **Linck, E.B.**, Williamson, J.L.\*, Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. In press. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*
 
 16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. 2022. Barriers and gradients: the formation of montane diversity. *Nature Communications* 13, 268.  
 
@@ -62,11 +64,7 @@ SHP. *Muruk* 10(1), 4-7.
 
 ## Preprints / In Revision
 
-DeCicco, L.H., Dumbacher, J.P., **Linck, E.B.**, Andersen, M.J., Moyle, R.J. In review. Novel origin of a montane bird species: escaping taxon cycle predictions. *Biology Letters*.  
-
-Sheldon, K.S., **Linck, E.B.**, Giam, X., McGee, M.R., Arendt, W., Brawn, J.D., DeGroote, L.W., Humple, D.L., Jirinec, V., Rutt, C.L., Stouffer, P.C., Tarwater, C.E., Toms, J.D. In revision. Bird body size declines associated with climate warming are greatest in the tropics. *Nature Communications*.  
-
-Williamson, J.L.\*, **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. 2021. Oxygen availability drives blood-hemoglobin content and the cell number-size tradeoff across the Andean hummingbird radiation. *bioRxiv*. DOI: [10.1101/2021.09.30.462673](https://doi.org/10.1101/2021.09.30.462673)  
+Jones, G., Goldberg, J., Wilcox, T., Buckley, L., Parr, C., **Linck, E.**, Fountain, E., Schwartz, M. In revision. Fire-driven animal evolution in the Pyrocene. *Trends in Ecology and Evolution.*  
 
 **Linck, E.**, Battey, C.J. 2019. On the relative ease of speciation with periodic gene flow. *bioRxiv*. DOI: [10.1101/758664](https://doi.org/10.1101/758664)     
 
@@ -221,7 +219,9 @@ Evolution, Conservation Genetics, Population Genetics, Phylogenetics, Ornitholog
 
 ## Invited Presentations
 
-**Linck, E.** 2022. Thinking about glacial cycles and speciation with periodic gene flow. USFS Rocky Mountain Research Station 'Agora' Meeting, Missoula, MT.
+**Linck, E.** 2023. Climate fidelity, genetic variation, and evolutionary potential. University of Arizona School of Natural Resources and the Environment Seminar Series, Tucson, AZ.
+
+**Linck, E.** 2022. Thinking about glacial cycles and speciation with periodic gene flow. USFS Rocky Mountain Research Station 'Agora' Meeting, Missoula, MT.  
 
 **Linck, E.** 2022. Blood oxygen-carrying capacity and elevational range breadth in Andean birds. University of Wyoming Zoology & Physiology Seminar Series, Laramie, WY.   
 
