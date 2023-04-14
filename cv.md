@@ -21,7 +21,7 @@ B.A., Biology. 2013. **Reed College,** Portland, OR
 
 ## Publications  
 
-18) Williamson, J.L.\*, **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. Accepted. Hummingbird blood traits track oxygen availability across space and time. *Ecology Letters.*  
+18\) Williamson, J.L.\*, **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. Accepted. Hummingbird blood traits track oxygen availability across space and time. *Ecology Letters.*  
 
 17\) **Linck, E.B.**, Williamson, J.L.\*, Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. In press. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist.*
 
