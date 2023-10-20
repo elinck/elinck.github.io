@@ -1,6 +1,6 @@
----
-layout: default
----
+layout: page
+title: "running"
+permalink: /running
 
 I've been a trail runner since my first season of high school cross country, and have raced competitively for almost a decade. I occasionally work with endurance athletes as a coach in a casual way—if you're interested, [feel free to get in touch](mailto:ethanblinck@gmail.com).  
 

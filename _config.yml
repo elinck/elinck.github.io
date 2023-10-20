@@ -1,14 +1,14 @@
-title: Ethan Linck
-description: Postdoc @ U. Wyoming
+title: Linck Lab
+description: Montana State University
 show_downloads: true
 google_analytics: UA-98690382-1
 permalink: /:categories/:year-:month-:day-:title.html
 pages_list:
   Home: '/index'
-  CV: '/cv'
   Research: '/research'
-  Running: '/running'
-  Gallery: '/photos'
+  Publications: '/publications'
+  People: '/people'
+  Opportunities: '/opportunities'
 plugins:
   - jekyll-feed
-github: [metadata]  
+github: [metadata]
