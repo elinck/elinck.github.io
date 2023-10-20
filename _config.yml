@@ -9,6 +9,7 @@ pages_list:
   Publications: '/publications'
   People: '/people'
   Opportunities: '/opportunities'
+  Running: '/running'
 plugins:
   - jekyll-feed
 github: [metadata]

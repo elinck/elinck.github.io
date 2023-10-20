@@ -1,6 +1,6 @@
 items:
-  "Home": "/" 
+  "Home": "/"
   "Research": "/research"
-  "Publications": "/running"
-  "People": "/photos"
+  "Publications": "/publications"
+  "People": "/people"
   "Opportunities": "/opportunities"
