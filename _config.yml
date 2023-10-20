@@ -10,5 +10,5 @@ pages_list:
   People: '/people'
   Opportunities: '/opportunities'
 plugins:
-  - jekyll-feed  
+  - jekyll-feed
 github: [metadata]

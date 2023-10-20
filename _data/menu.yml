@@ -1,6 +1,6 @@
 items:
-  "Home": "/"
-  "CV": "/cv"
+  "Home": "/" 
   "Research": "/research"
-  "Running": "/running"
-  "Gallery": "/photos"
+  "Publications": "/running"
+  "People": "/photos"
+  "Opportunities": "/opportunities"
