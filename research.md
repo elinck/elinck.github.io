@@ -6,7 +6,7 @@ We are biologists broadly interested in the forces that shape the distribution o
 
 ![](images/conceptual_figure.png)  
 
-Our work spans ecology, population genomics and phylogenetics, and physiology. We value natural history museums and natural history, reproducibility and best practices in scientific programming, and writing clearly about science for diverse audiences. We are particularly interested in work that falls in overlap of conceptual issues in ecology and evolution and meaningful conservation.
+Our work spans ecology, population genomics and phylogenetics, and physiology. We value natural history museums and natural history, reproducibility and best practices in scientific programming, and writing clearly about science for diverse audiences. We are particularly interested in work that falls in the overlap of conceptual issues in ecology and evolution and meaningful conservation.
 
 ### Genetic differentiation and gene flow in mountains  
 
