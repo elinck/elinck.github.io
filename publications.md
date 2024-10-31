@@ -4,18 +4,23 @@ layout: default
 
 ## Publications  
 
-21\) Linck, E.B., Cadena, C.D. In press. A latitudinal gradient of reference genomes. *Molecular Ecology.* 
-- **Popular Press:** [News from Science](https://www.science.org/content/article/countries-global-south-have-more-biodiversity-countries-north-databases-used-study), [Phys.org](https://phys.org/news/2024-10-global-imbalance-genomes-highlights-sequencing.html)  
+21\) **Linck, E.B.**, Cadena, C.D. In press. A latitudinal gradient of reference genomes. *Molecular Ecology.*   
 
-20\)  Jones, G.M., Goldberg, J.F., Wilcox, T.M., Buckley, L.B., Parr, C.L., **Linck, E.B.**, Fountain, E.D., Schwartz, M.K. 2023. Fire-adapted traits in animals. *Trends in Ecology & Evolution* 38(11), 1117-1118.  
+- Popular Press: [*News from Science*](https://www.science.org/content/article/countries-global-south-have-more-biodiversity-countries-north-databases-used-study), [*Phys.org*](https://phys.org/news/2024-10-global-imbalance-genomes-highlights-sequencing.html)   
 
-19\) Jones, G.M., Goldberg, J.F., Wilcox, T.M., Buckley, L.B., Parr, C.L., **Linck, E.B.**, Fountain, E.D., Schwartz, M.K. 2023. Fire-driven animal evolution in the Pyrocene. *Trends in Ecology & Evolution*  38(11), 1072-1084.   
+20\) Jones, G.M., Goldberg, J.F., Wilcox, T.M., Buckley, L.B., Parr, C.L., **Linck, E.B.**, Fountain, E.D., Schwartz, M.K. 2023. Fire-adapted traits in animals. *Trends in Ecology & Evolution* 38(12) 1117-1118.  
 
-18\) Williamson, J.L.\*, **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. 2023. Hummingbird blood traits track oxygen availability across space and time. *Ecology Letters* 26(7), 1223-1236.
+19\) Jones, G.M., Goldberg, J.F., Wilcox, T.M., Buckley, L.B., Parr, C.L., **Linck, E.B.**, Fountain, E.D., Schwartz, M.K. 2023. Fire-driven animal evolution in the Pyrocene. *Trends in Ecology and Evolution* (38)11, 1072-1084.   
 
-17\) **Linck, E.B.**, Williamson, J.L.\*, Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. In press. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist* 201(5), 741-754.  
+- Popular Press: [*High Country News*](https://www.hcn.org/issues/56-2/wildfire-fire-is-driving-animals-evolution/), [*The Washington Post*](https://www.washingtonpost.com/climate-environment/2023/07/19/animals-fire-heat-wave/), [*Vox*](https://www.vox.com/down-to-earth/23806750/wildfire-climate-change-animal-evolution), [*Nautilus*](https://nautil.us/wildfires-are-changing-animal-evolution-357151/)  
 
-16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. 2022. Barriers and gradients: the formation of montane diversity. *Nature Communications* 13, 268.  
+18\) Williamson, J.L.\*, **Linck, E.B.**, Bautista, E., Smiley, A., McGuire, J.A., Dudley, R., Witt, C.C. 2023. Hummingbird blood traits track oxygen availability across space and time. *Ecology Letters* 26(7), 1223-1236.  
+
+17\) **Linck, E.B.**, Williamson, J.L.\*, Bautista, E., Beckman, E.J., Benham, P.M., DuBay, S.G., Flores, L.M., Gadek, C.R., Johnson, A.B., Jones, M.R., Núñez-Zapata, J., Quiñonez, A., Schmitt, C.J., Susanibar, D., Tiravanti, J., Verde-Guerra, K., Wright, N.A., Valqui, T., Storz, J.F., Witt, C.C. 2023. Blood variation implicates respiratory limits on elevational ranges of Andean birds. *The American Naturalist* 201(5), 741-754. 
+
+16\) Pujolar, J.M., Blom, M.P.K., Reeve, A.H., Kennedy, J.D., Marki, P.M., Freeman, B.G., Sam, K., **Linck, E.B.**, Haryoko, T., Iova, B., Koane, B., Maia, G., Paul, L., Irestedt, M., Jønnson, K.A. 2022. Barriers and gradients: the formation of montane diversity. *Nature Communications* 13, 268.  
+
+- Popular Press: [*Phys.org*](https://phys.org/news/2022-03-bird-species.html)  
 
 15\) **Linck, E.**, Freeman, B.G., Cadena, C.D., Ghalambor, C.K. 2021. Evolutionary conservatism will limit responses to climate change in the tropics. *Biology Letters* 17(10), 20210363.  
 
