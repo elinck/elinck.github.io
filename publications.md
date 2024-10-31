@@ -4,7 +4,10 @@ layout: default
 
 ## Publications  
 
-20\)  Jones, G.M., Goldberg, J.F., Wilcox, T.M., Buckley, L.B., Parr, C.L., **Linck, E.B.**, Fountain, E.D., Schwartz, M.K. In press. Fire-adapted traits in animals. *Trends in Ecology & Evolution*
+21\) Linck, E.B., Cadena, C.D. In press. A latitudinal gradient of reference genomes. *Molecular Ecology.* 
+- **Popular Press:** [News from Science](https://www.science.org/content/article/countries-global-south-have-more-biodiversity-countries-north-databases-used-study), [Phys.org](https://phys.org/news/2024-10-global-imbalance-genomes-highlights-sequencing.html)  
+
+20\)  Jones, G.M., Goldberg, J.F., Wilcox, T.M., Buckley, L.B., Parr, C.L., **Linck, E.B.**, Fountain, E.D., Schwartz, M.K. 2023. Fire-adapted traits in animals. *Trends in Ecology & Evolution* 38(11), 1117-1118.  
 
 19\) Jones, G.M., Goldberg, J.F., Wilcox, T.M., Buckley, L.B., Parr, C.L., **Linck, E.B.**, Fountain, E.D., Schwartz, M.K. 2023. Fire-driven animal evolution in the Pyrocene. *Trends in Ecology & Evolution*  38(11), 1072-1084.   
 
