@@ -24,7 +24,7 @@ Lizzy joined the Linck Lab in the Fall of 2024 after graduating from Colorado St
 
 ![](images/ingelfinger.jpeg)  
 
-Nate joined the Link Lab in the spring of 2025. He is currently pursuing an undergraduate degree in Conservation Biology with a minor in Geographical Information Systems at Montana State University. Originally from Whitefish Montana, Nate is an avid backcountry skier, climber, and trail runner. These experiences sparked his interest in the natural world and the threats posed by climate change, specifically how it is altering species' distribution and abundance. Nate is excited to gain hands-on experience in the lab and to deepen his understanding of scientific research. 
+Nate joined the Linck Lab in the spring of 2025. He is currently pursuing an undergraduate degree in Conservation Biology with a minor in Geographical Information Systems at Montana State University. Originally from Whitefish Montana, Nate is an avid backcountry skier, climber, and trail runner. These experiences sparked his interest in the natural world and the threats posed by climate change, specifically how it is altering species' distribution and abundance. Nate is excited to gain hands-on experience in the lab and to deepen his understanding of scientific research. 
  
  
 ## Lab Alumni  
