@@ -17,7 +17,7 @@ Jason joins the Linck Lab following a decade of working in applied conservation 
 
 ## Lizzy Osterhoudt 
 
-![](images/losterhoudt.png)  
+![](images/losterhoudt_low.jpg)  
 
 Lizzy joined the Linck Lab in the Fall of 2024 after graduating from Colorado State University with a B.S. in Zoology earlier that year. Her time at CSU was dedicated to supporting the local Native American youth population through tutoring, mentoring, and other community events. In 2023, she became a McNair Scholar, exploring the stress physiology of Wyoming Ground Squirrels in a changing climate under the perspective of Native science. Additionally, she led a project in collaboration with CSU's Native American Cultural Center that explored the riparian species diversity of Northern Colorado with Native science. She hosted a session at the National Annual Native American Fish and Wildlife Society's meeting in 2024, discussing her research which received third overall in poster presentations. She obtained a grant from Trees, Water, and Peoples nonprofit organization to finish her project post-graduation before moving to Montana. She is excited to begin working with the Pika populations from her ancestral homelands of Jemez, New Mexico, and integrating Native science into her PhD project.
 
@@ -27,9 +27,16 @@ Lizzy joined the Linck Lab in the Fall of 2024 after graduating from Colorado St
 
 Owen is interested in applied wildlife conservation research with a focus on threatened and endangered species. He is investigating the genetics and movement ecology of swift foxes on the Fort Belknap Indian Reservation in northeastern Montana. He is coadvised by Dr. Ethan Linck and Dr. Justine Becker, and the project is a collaboration with the Smithsonian Institution National Zoo and Conservation Biology Institute and Fort Belknap Fish and Wildlife Department. Owen grew up in New Hampshire where he achieved his B.S. in Wildlife and Conservation Biology from the University of New Hampshire. Following completion of his degree, Owen moved to the intermountain west where he has spent the past five years working for state nongame wildlife departments. Highlights from those five years include two summers of alpine surveys in Idaho studying Black Rosy-Finches, a winter of camera-trapping for wolverines in Wyoming, and two years leading nongame wildlife projects for Montana Fish, Wildlife and Parks, including a pygmy rabbit occupancy study. When he is taking a break from graduate work, Owen can be found fishing, floating, hunting, and skiing with his partner Morgan and their two pups, Aspen and Gale.
 
+## Cedar Gordon
+
+<img src='images/cedar_low.jpeg' width='50%' />
+
+Cedar graduated from Michigan Technological University in the spring of 2025 with a double major in Applied Ecology and Environmental Science and Wildlife Biology and Conservation; and a minor in Spanish. As an undergraduate student she interned at the Darling Marine Center (University of Maine) researching the spatial connectivity of Crossotea virginica (Eastern oyster) populations; and later worked in the Brzeski Lab for Conservation Genetics (Michigan Tech) assisting with the Voyager Wolf Project. At the Linck Lab she will be working on establishing WGS library prep protocols, and analyzing genetic samples of Cleptornis marchei (Golden white-eye). In her spare time she enjoys running, skiing, and exploring her new home in Montana.  
+
+
 ## Nate Ingelfinger  
 
-![](images/ingelfinger.jpeg)  
+![](images/ingelfinger_low.jpeg)  
 
 Nate joined the Linck Lab in the spring of 2025. He is currently pursuing an undergraduate degree in Conservation Biology with a minor in Geographical Information Systems at Montana State University. Originally from Whitefish Montana, Nate is an avid backcountry skier, climber, and trail runner. These experiences sparked his interest in the natural world and the threats posed by climate change, specifically how it is altering species' distribution and abundance. Nate is excited to gain hands-on experience in the lab and to deepen his understanding of scientific research. 
  
