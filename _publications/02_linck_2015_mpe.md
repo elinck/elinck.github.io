@@ -1,6 +1,6 @@
 ---
 title: "Genetic differentiation within a widespread 'supertramp' taxon: molecular phylogenetics of the Louisiade White-eye (*Zosterops griseotinctus*)"
-authors: "**Linck, E.**, Schaack, S., Dumbacher, J."
+authors: "**Linck, E.B.**, Schaack, S., Dumbacher, J."
 journal: "Molecular Phylogenetics and Evolution"
 pub_date: "2016-01-01"
 image: "/static/img/pub/02_linck_2016_mpe.png"
