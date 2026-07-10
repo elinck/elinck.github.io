@@ -21,6 +21,16 @@
     <!-- <link href="/static/css/bootstrap-responsive.css" rel="stylesheet"> -->
     <link href="/static/css/syntax.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
+    <meta property="og:title" content="{{ page.title | default: site.name }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:image" content="https://elinck.org/static/img/logo/homepage.jpg">
+    <meta property="og:url" content="https://elinck.org{{ page.url }}">
+    <meta property="og:type" content="website">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title | default: site.name }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+    <meta name="twitter:image" content="https://elinck.org/static/img/logo/homepage.jpg">
   </head>
 
   <body>
