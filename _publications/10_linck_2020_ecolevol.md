@@ -7,7 +7,7 @@ image: "/static/img/pub/10_linck_2020_ecolevol.png"
 tags:
   - population and conservation genomics
   - biogeography
-pdf: "https://github.com/elinck/elinck.github.io/static/papers/10_linck_et_al_2020_ecolevol.pdf"
+pdf: "/static/papers/10_linck_et_al_2020_ecolevol.pdf"
 doi: 10.1002/ece3.6185
 summary: "We show that gene flow is not restricted across elevation in five Andean dung beetle species with narrow distributions and temperature tolerances. This finding may be explained by the mobility required to take advantage of a scattered, ephemeral resource."
 ---

@@ -7,7 +7,7 @@ image: "/static/img/pub/04_linck_2017_ecolevol.png"
 tags:
   - population and conservation genomics
   - ornithology
-pdf: "https://github.com/elinck/elinck.github.io/static/04_linck_et_al_2017_ecolevol.pdf"
+pdf: "/static/papers/04_linck_et_al_2017_ecolevol.pdf"
 summary: "We apply a method of retrieving genome-wide SNPs from degraded DNA to toepads of historic museum specimens of Yellow-billed Kingfisher. We report on the efficacy of the method and describe our lab protocol and bioinformatics pipeline."
 doi: 10.1002/ece3.3065
 ---

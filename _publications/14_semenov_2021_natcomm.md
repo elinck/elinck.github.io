@@ -8,7 +8,7 @@ tags:
   - speciation and hybridization
   - population and conservation genomics
   - ornithology
-pdf: "https://github.com/elinck/elinck.github.io/blob/master/papers/14_semenov_et_al_2021.pdf"
-summary: "Plumage patterns change differently than average genomic ancestry in a hybrid zone between White Wagtail subspecies in Siberia. We show that two small genetic regions are responsible for these traits, which interact and have a partially dominant inheritence pattern."
+pdf: "/static/papers/14_semenov_et_al_2021.pdf"
+summary: "Plumage patterns change differently than average genomic ancestry in a hybrid zone between White Wagtail subspecies in Siberia. We show that two small genetic regions are responsible for these traits, which interact and have a partially dominant inheritance pattern."
 doi: 10.1038/s41467-021-21340-y
 ---

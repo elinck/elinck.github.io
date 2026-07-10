@@ -7,7 +7,7 @@ image: "/static/img/pub/20_jones_2023b_tree.png"
 tags:
   - global change
   - natural history
-pdf: "https://github.com/elinck/elinck.github.io/static/papers/20_jones_et_al_2023b_tree.pdf"
-summary: "We respond to [Nimmo et al.'s (2025)'s suggestion](https://doi.org/10.1016/j.tree.2023.09.005) that we expand our framework for studying adaptations to fire in animals, highlighting overlap in our trait categories while acknolwedging our list was not exhaustive."
+pdf: "/static/papers/20_jones_et_al_2023b_tree.pdf"
+summary: "We respond to [Nimmo et al.'s (2025)'s suggestion](https://doi.org/10.1016/j.tree.2023.09.005) that we expand our framework for studying adaptations to fire in animals, highlighting overlap in our trait categories while acknowledging our list was not exhaustive."
 doi: 10.1016/j.tree.2023.09.016
 ---

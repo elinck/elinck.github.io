@@ -8,6 +8,6 @@ summary: "We discuss the implications of [Farrand et al.'s 2025 study](https://d
 tags:
   - population and conservation genomics
   - mammalogy
-pdf: "https://github.com/elinck/elinck.github.io/static/papers/24_beever_2026_molecol.pdf"
+pdf: "/static/papers/24_beever_2026_molecol.pdf"
 doi: 10.1111/mec.70238
 ---

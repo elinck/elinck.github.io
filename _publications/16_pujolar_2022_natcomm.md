@@ -9,10 +9,10 @@ tags:
   - speciation and hybridization
   - population and conservation genomics
   - ornithology
-pdf: "https://github.com/elinck/elinck.github.io/static/16_pujolar_et_al_2022_natcomm.pdf"
+pdf: "/static/papers/16_pujolar_et_al_2022_natcomm.pdf"
 links:
   - name: "Phys.org"
     url: "https://phys.org/news/2022-03-bird-species.html"
 doi: 10.1038/s41467-021-27858-5
-summary: We find population differentiation in New Guinean and Wallacean birds to be correlated with the scale of geographic barriers and each species' minimum elevation of occurence. Pleistocene climate cycles most strongly impacted historical effective population sizes in range-restricted taxa. 
+summary: "We find population differentiation in New Guinean and Wallacean birds to be correlated with the scale of geographic barriers and each species' minimum elevation of occurrence. Pleistocene climate cycles most strongly impacted historical effective population sizes in range-restricted taxa." 
 ---

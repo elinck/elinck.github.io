@@ -8,7 +8,7 @@ tags:
   - speciation and hybridization
   - population and conservation genomics
   - ornithology
-pdf: "https://github.com/elinck/elinck.github.io/blob/master/papers/08_linck_et_al_2019_syst_biol.pdf"
+pdf: "/static/papers/08_linck_et_al_2019_syst_biol.pdf"
 doi: 10.1093/sysbio/syz027
 summary: "We demonstrate the importance of broad georgaphic sampling by showing that some populations of Cordilleran Flycatcher (*E. occidentalis*) are more closely related to Pacific Slope Flycatcher (*E. difficilis*) than their own conspecifics in Mexico. We further identify a Cordilleran Flycatcher population in the Sierra Madre del Sur as highly distinctive. This study led to lumping *E. occidentalis* and *E. difficilis* to resurrect Western Flycatcher *E difficilis* (see links below)."
 links: 

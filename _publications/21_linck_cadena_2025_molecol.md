@@ -7,7 +7,7 @@ image: "/static/img/pub/21_linck_cadena_2025_molecol.png"
 tags:
   - population and conservation genomics
   - biogeography
-pdf: "https://github.com/elinck/elinck.github.io/static/papers/21_linck_cadena_2025_molecol.pdf"
+pdf: "/static/papers/21_linck_cadena_2025_molecol.pdf"
 doi: 10.1111/mec.17551
 links:
   - name: "News from Science"

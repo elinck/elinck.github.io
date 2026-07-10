@@ -6,7 +6,7 @@ pub_date: "2023-11-01"
 image: "/static/img/pub/19_jones_2023a_tree.png"
 tags:
   - global change
-pdf: "https://github.com/elinck/elinck.github.io/blob/master/papers/19_jones_et_al_2023a_tree.pdf"
+pdf: "/static/papers/19_jones_et_al_2023a_tree.pdf"
 links:
   - name: "High Country News"
     url: "https://www.hcn.org/issues/56-2/wildfire-fire-is-driving-animals-evolution/"

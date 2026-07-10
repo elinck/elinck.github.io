@@ -7,7 +7,7 @@ image: "/static/img/pub/17_linck_2023_amnat.png"
 tags:
   - ornithology
   - biogeography
-pdf: "https://github.com/elinck/elinck.github.io/static/papers/17_linck_et_al_2023_amnat.pdf"
-summary: "We show that plasticity in blood trait values in Andean birds is positively correlated with elevational range breadth, potentially due to improved acclimitization ability to low oxygen environments. We further show that variance in blood trait values is reduced near elevational range limits, potentially restricting distributions."
+pdf: "/static/papers/17_linck_et_al_2023_amnat.pdf"
+summary: "We show that plasticity in blood trait values in Andean birds is positively correlated with elevational range breadth, potentially due to improved acclimatization ability to low-oxygen environments. We further show that variance in blood trait values is reduced near elevational range limits, potentially restricting distributions."
 doi: 10.1086/723222
 ---
