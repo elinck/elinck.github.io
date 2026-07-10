@@ -114,8 +114,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 			{% if bval contains 'http' or bval contains 'doi' %}
 			<li>BioRxiv Preprint: <a href="{{ bval }}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank">{{ bval }}</a></li>
 			{% else %}
-						{% assign has_dot = bval contains '.' %}
-						{% if has_dot %}
+						{% if bval contains '.' %}
 						{% assign parts = bval | split: '.' %}
 						{% if parts.size >= 3 %}
 							{% assign date_string = parts[0] | append: '.' | append: parts[1] | append: '.' | append: parts[2] %}
