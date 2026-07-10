@@ -1,46 +1,15 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+    </div>
+    <hr>
+    <div id="footer footer-fixed-bottom">
+      <div class="container">
+        <p class="text-muted credit"> This website is open-source and available on <a href="https://github.com/elinck/elinck.github.io" target="_blank" rel="noopener noreferrer">GitHub</a>. It is based off excellent design developed by the <a href="https://github.com/fraser-lab/fraser-lab.github.io" target="_blank" rel="noopener noreferrer">Fraser Lab</a>.</p>
       </div>
     </div>
 
-  </div>
-
-</footer>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/static/js/jquery.min.js" defer></script>
+    <script src="/static/js/popper.min.js" defer></script>
+    <script src="/static/js/bootstrap.min.js" defer></script>
+    <script src="/static/js/parallax.min.js" defer></script>
+  </body>
+</html>

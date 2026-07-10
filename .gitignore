@@ -1,4 +1,7 @@
-_site
-.sass-cache
+_site/
+.bundle/
+.DS_Store
 Gemfile.lock
-*.gem
+vendor/
+.ipynb_checkpoints/
+tmp/

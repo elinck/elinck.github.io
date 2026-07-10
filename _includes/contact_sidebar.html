@@ -1,0 +1,18 @@
+<h2>Contact Us</h2>
+<p>
+Ethan Linck, Ph.D. <br>
+Assitant Professor <br>
+Department of Ecology <br>
+Montana State University <br>
+email: ethan.linck (at) montana.edu <br>
+Lewis Hall 305B (Office), Leon Johnson Hall 621 (Lab) <br> 
+P.O. Box 173460 <br>
+Bozeman, MT 59717-3460 <br>
+</p>
+
+<h3> Recent Posts </h3>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
+  {% endfor %}
+</ul>

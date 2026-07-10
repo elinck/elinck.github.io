@@ -1,15 +1,49 @@
-title: Linck Lab
-description: Montana State University
-show_downloads: true
-google_analytics: UA-98690382-1
-permalink: /:categories/:year-:month-:day-:title.html
-pages_list:
-  Home: '/index'
-  Research: '/research'
-  Publications: '/publications'
-  People: '/people'
-  Opportunities: '/opportunities'
-  Running: '/running'
-plugins:
-  - jekyll-feed
-github: [metadata]
+name: "Linck Lab"
+description: "This is the official web page for Ethan Linck's lab at Montana State University."
+
+url: "https://elinck.org/"
+
+paginate: 5
+plugins: [jekyll-paginate]
+paginate_path: "news/page:num"
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+
+collections:
+        affiliates:
+                output: true
+        members:
+                output: true
+        publications:
+                output: true
+        reviews:
+                output: true
+        alumni:
+                output: true
+        sep:
+                output: true
+        visitors:
+                output: true
+        undergrads:
+                output: true
+        pets:
+                output: true
+        tags:
+                output: true
+        authors:
+                output: true

@@ -1,0 +1,36 @@
+- image: /static/img/fieldwork/tobacco.jpg
+  caption: "Tobacco Root Mountains, Montana"
+- image: /static/img/fieldwork/bushknife.jpg
+  caption: "Tools of the trade"
+- image: /static/img/fieldwork/cloudforest.jpg
+  caption: "Cloud forest, Ecuador"
+- image: /static/img/fieldwork/beetles.jpg
+  caption: "Andean scarabs, Ecuador"
+- image: /static/img/fieldwork/idaho.jpg
+  caption: "Voucher specimens, Idaho"
+- image: /static/img/fieldwork/winds.jpg
+  caption: "Greater Yellowstone Ecosystem, Wyoming" 
+- image: /static/img/fieldwork/melidora.jpg
+  caption: "Hook-billed Kingfisher, Papua New Guinea"
+- image: /static/img/fieldwork/ferruginous.jpg
+  caption: "Ferruginous Hawk, Montana"
+- image: /static/img/fieldwork/honeyeater.jpg
+  caption: "Macleay's Honeyeater, Australia"
+- image: /static/img/fieldwork/solomons.jpg
+  caption: "New Georgia Group, Solomon Islands"
+- image: /static/img/fieldwork/rmbl.jpg
+  caption: "Rocky Mountain Biological Lab, Colorado"
+- image: /static/img/fieldwork/kalmiopsis.jpg
+  caption: "Kalmiopsis Wilderness, Oregon"
+- image: /static/img/fieldwork/frog.jpg
+  caption: "Solomon Islands Leaf Frog, Kolombangara"
+- image: /static/img/fieldwork/taveuni.jpg
+  caption: "Taveuni, Fiji"
+- image: /static/img/fieldwork/cuscus.jpg
+  caption: "Common Spotted Cuscus, Papua New Guinea"
+- image: /static/img/fieldwork/paramo.jpg
+  caption: "Paramo, Ecuador"
+- image: /static/img/fieldwork/amazon.jpg
+  caption: "Amazonian Ecuador"
+- image: /static/img/fieldwork/sawatch.jpeg
+  caption: "Sawatch Range, CO"

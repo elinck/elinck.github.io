@@ -1,0 +1,16 @@
+---
+title: Fieldwork
+layout: default
+group: fieldwork
+---
+
+<h1>Fieldwork</h1>
+
+<div class="fieldwork-gallery">
+{% for photo in site.data.fieldwork %}
+	<figure class="tile">
+		<img src="{{ photo.image }}" alt="{{ photo.caption }}" loading="lazy">
+		<figcaption>{{ photo.caption }}</figcaption>
+	</figure>
+{% endfor %}
+</div>
