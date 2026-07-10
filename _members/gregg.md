@@ -8,8 +8,7 @@ position: M.S. Candidate
 #pronouns: he/him/his
 email: jason.j.a.gregg (at) gmail.com
 scholar: PlpZwfwAAAAJ
-website: jasonjgregg.com
-#UCSF: james.fraser
+website: "https://www.jasonjgregg.com"
 twitter: JasonJGregg
 linkedin: jason-gregg-72b243328
 bsky: "jasongregg.bsky.social"

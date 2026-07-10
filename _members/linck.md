@@ -8,7 +8,7 @@ position: Principal Investigator
 #pronouns: he/him/his
 email: ethan.linck (at) montana.edu
 scholar: 9jNmRcsAAAAJ
-website: elinck.org
+website: "https://elinck.org"
 MSU_url: "https://www.montana.edu/ecology/directory/faculty/2458503/ethan-linck"
 twitter: ethanblinck
 linkedin: ethan-linck-91467885
