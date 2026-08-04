@@ -9,5 +9,5 @@ tags:
   - natural history
   - ornithology
 pdf: "/static/papers/26_gregg_2026_jls.pdf"
-doi: https://doi.org/10.66264/3c8z5qxh
+doi: 10.66264/3c8z5qxh
 ---
