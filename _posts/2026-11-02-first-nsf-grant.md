@@ -1,6 +1,6 @@
 ---
 published: True
-title: New Paper in Journal of Lost Species
+title: The Linck Lab is NSF Funded!
 author: Ethan Linck
 layout: post
 group: posts
