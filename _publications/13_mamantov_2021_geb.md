@@ -1,6 +1,6 @@
 ---
 title: "Climate-driven range shifts of montane species vary with elevation"
-authors: "Mamantov, M.A.;, Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S."
+authors: "Mamantov, M.A., Gibson-Reinemer, D.K., **Linck, E.**, Sheldon, K.S."
 journal: "Global Ecology and Biogeography"
 pub_date: "2021-01-01"
 image: "/static/img/pub/13_mamantov_2021_geb.png"
